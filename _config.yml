@@ -1,0 +1,7 @@
+title: "My Jekyll Site"
+description: "A basic Jekyll site configured for GitHub Pages"
+markdown: kramdown
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
