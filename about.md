@@ -1,0 +1,7 @@
+---
+layout: page
+title: About
+permalink: /about/
+---
+Short, sharp stories about the real work of running a small business — told by two operators who’ve lived it. No jargon. No theory. Just meddling. 
+
