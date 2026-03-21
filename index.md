@@ -1,6 +1,5 @@
 ---
 layout: home
-title: Home
+title: 
 ---
 
-Welcome to your Minima-based Jekyll site.
