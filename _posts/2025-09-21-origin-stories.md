@@ -1,5 +1,5 @@
 ---
-content_hash: 7ae55cad9e552ae4a0674ad6e0298621143b5d1b96f5d81ed0172f334840d420
+content_hash: 66c731309240e613be1b2701613cb76a270120d824c2b9618c287eaaed4c3711
 date: '2025-09-21T08:00:00'
 layout: post
 original_link: https://shows.acast.com/meddlesome/episodes/67ec40fe9524713132624eaa
@@ -11,5 +11,5 @@ Listeners demanded to know how we became consultants and entrepreneurs! Well OK,
 
 ---
 
-**Listen to this episode here:** https://shows.acast.com/meddlesome/episodes/67ec40fe9524713132624eaa
+**Catch up with this episode here:** [Origin Stories](https://shows.acast.com/meddlesome/episodes/67ec40fe9524713132624eaa)
 

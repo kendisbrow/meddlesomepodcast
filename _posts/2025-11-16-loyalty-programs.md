@@ -1,5 +1,5 @@
 ---
-content_hash: 29ace548d0078070ffe4d353ce998e5cbf526e0a332cc5a4287f29b9d2090a7d
+content_hash: f4be5157b4190314621832a0647cba39d5d7c16291f709666c9eb472a8a5b2e4
 date: '2025-11-16T08:00:00'
 layout: post
 original_link: https://shows.acast.com/meddlesome/episodes/67ec4530d4b40d7b308fa50d
@@ -11,5 +11,5 @@ Jim and Ken talk about loyalty programs. Airlines, stores, hotels, and online se
 
 ---
 
-**Listen to this episode here:** https://shows.acast.com/meddlesome/episodes/67ec4530d4b40d7b308fa50d
+**Catch up with this episode here:** [Loyalty Programs](https://shows.acast.com/meddlesome/episodes/67ec4530d4b40d7b308fa50d)
 

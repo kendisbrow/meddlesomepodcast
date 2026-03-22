@@ -1,5 +1,5 @@
 ---
-content_hash: 82d061cf7e3b437a083dac7813183364b6af4e3f472e4a7c6191b8b8f4798346
+content_hash: b04663d53fa13b3807777786816bf99e4bc7b37b63af326c6c25e6c086011924
 date: '2025-04-20T08:00:05'
 layout: post
 original_link: https://shows.acast.com/meddlesome/episodes/675b687636a70d75b65ad523
@@ -11,5 +11,5 @@ Jim and Ken take a fairly deep dive into dealing with employee issues. This was 
 
 ---
 
-**Listen to this episode here:** https://shows.acast.com/meddlesome/episodes/675b687636a70d75b65ad523
+**Catch up with this episode here:** [Managing Underperforming Employees](https://shows.acast.com/meddlesome/episodes/675b687636a70d75b65ad523)
 

@@ -1,5 +1,5 @@
 ---
-content_hash: 7e82810a242d663b4e1a3b3e585f13c7f55f12c82f793fa87c506815d92aefc8
+content_hash: 49c283aa90b2b7bfdbae9cdfcb5d7fa2256b9e2e8df80f72319fa73608bcdfb0
 date: '2026-03-08T10:02:00'
 layout: post
 original_link: https://shows.acast.com/meddlesome/episodes/6887e44d459778d8a3ef33b9
@@ -11,5 +11,5 @@ In this episode, Jim and Ken share their journey through the complexities of dec
 
 ---
 
-**Listen to this episode here:** https://shows.acast.com/meddlesome/episodes/6887e44d459778d8a3ef33b9
+**Catch up with this episode here:** [Making Decisions](https://shows.acast.com/meddlesome/episodes/6887e44d459778d8a3ef33b9)
 

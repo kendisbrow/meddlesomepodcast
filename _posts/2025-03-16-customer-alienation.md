@@ -1,5 +1,5 @@
 ---
-content_hash: 1a458fb952142766dba1112e7748566d0f8ea33d207d73bb5585e1837dbf1658
+content_hash: d50979b7eb5f3da05646917a448561a8b77596686e13a1cbb574fa346a1a8b7f
 date: '2025-03-16T08:01:59'
 layout: post
 original_link: https://shows.acast.com/meddlesome/episodes/66f83d9de27ee87238fffc8f
@@ -11,5 +11,5 @@ How to make enemies and alienate customers.
 
 ---
 
-**Listen to this episode here:** https://shows.acast.com/meddlesome/episodes/66f83d9de27ee87238fffc8f
+**Catch up with this episode here:** [Customer Alienation](https://shows.acast.com/meddlesome/episodes/66f83d9de27ee87238fffc8f)
 

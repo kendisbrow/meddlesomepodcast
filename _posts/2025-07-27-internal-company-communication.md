@@ -1,5 +1,5 @@
 ---
-content_hash: 1eea4421edd86c035cbe03539e05a3be5ba85d7338fd1d1effa640da7f238c5e
+content_hash: 23538817c828b8136b1c01f60286a3d5310a2958c09a02603fb9673f64a20f7a
 date: '2025-07-27T08:01:00'
 layout: post
 original_link: https://shows.acast.com/meddlesome/episodes/67d8e8be89c80e5ef051e9cb
@@ -11,5 +11,5 @@ Jim and Ken discuss internal company communication - is there anything useful th
 
 ---
 
-**Listen to this episode here:** https://shows.acast.com/meddlesome/episodes/67d8e8be89c80e5ef051e9cb
+**Catch up with this episode here:** [Internal Company Communication](https://shows.acast.com/meddlesome/episodes/67d8e8be89c80e5ef051e9cb)
 

@@ -1,5 +1,5 @@
 ---
-content_hash: c4cb67e17341e61bab8b311f4e53970baba0c3ee48c9cfab96e6410ab94faa1e
+content_hash: 01c59b88aa57bbea404e82cf180f41210449805bcf79a2675aea5b45f6072bb8
 date: '2026-02-22T10:01:00'
 layout: post
 original_link: https://shows.acast.com/meddlesome/episodes/6887e393e0a86cc3abf50ba0
@@ -11,5 +11,5 @@ Jim and Ken examine the relationship between chaos and business strategy, questi
 
 ---
 
-**Listen to this episode here:** https://shows.acast.com/meddlesome/episodes/6887e393e0a86cc3abf50ba0
+**Catch up with this episode here:** [Is Chaos a business strategy](https://shows.acast.com/meddlesome/episodes/6887e393e0a86cc3abf50ba0)
 

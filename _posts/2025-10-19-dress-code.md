@@ -1,5 +1,5 @@
 ---
-content_hash: 006c80478a8483bdfc54d553d5f77dc741cef103ec0870ef15a961692078b639
+content_hash: 779e2f6c5f95240d7fc49f5653433120b1068a649f377befea0592b3e9552980
 date: '2025-10-19T07:00:00'
 layout: post
 original_link: https://shows.acast.com/meddlesome/episodes/67ec43cf952471313263f28c
@@ -11,5 +11,5 @@ Jim and Ken discuss how a consultant (or entrepreneur) should dress in front of 
 
 ---
 
-**Listen to this episode here:** https://shows.acast.com/meddlesome/episodes/67ec43cf952471313263f28c
+**Catch up with this episode here:** [Dress Code](https://shows.acast.com/meddlesome/episodes/67ec43cf952471313263f28c)
 

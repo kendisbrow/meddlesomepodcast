@@ -1,5 +1,5 @@
 ---
-content_hash: 84593722a45facb9166258fc99e46d1bd37db4b0012502250f8b19223577ffbe
+content_hash: 5a55d572357b0a0576c2a768ba73235b917d7e8a2b3ba69c589e15f9549056f9
 date: '2025-02-16T09:00:17'
 layout: post
 original_link: https://shows.acast.com/meddlesome/episodes/66f83c0cb696dfdc6da39d66
@@ -11,5 +11,5 @@ What do you do while waiting for an airplane? Make money in the shower, of cours
 
 ---
 
-**Listen to this episode here:** https://shows.acast.com/meddlesome/episodes/66f83c0cb696dfdc6da39d66
+**Catch up with this episode here:** [Interstitial Time](https://shows.acast.com/meddlesome/episodes/66f83c0cb696dfdc6da39d66)
 

@@ -1,5 +1,5 @@
 ---
-content_hash: 2bd39c3acd19f9f6951079837828c9da99dd910f64497d965f205911e251756b
+content_hash: c57392faefeba3ccbcb42b663ff57fe8f030c58b93ad3daf48dd2c40967ade4d
 date: '2025-01-19T09:00:48'
 layout: post
 original_link: https://shows.acast.com/meddlesome/episodes/66f832a5acfe1ec5ecd4b18f
@@ -11,5 +11,5 @@ Following on from our talk about mission, Jim and Ken talk about corporate cultu
 
 ---
 
-**Listen to this episode here:** https://shows.acast.com/meddlesome/episodes/66f832a5acfe1ec5ecd4b18f
+**Catch up with this episode here:** [Corporate Culture](https://shows.acast.com/meddlesome/episodes/66f832a5acfe1ec5ecd4b18f)
 

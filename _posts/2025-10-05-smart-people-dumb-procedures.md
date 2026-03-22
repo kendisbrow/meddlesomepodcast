@@ -1,5 +1,5 @@
 ---
-content_hash: e6c17211ae5f8ce89fa58891190e7d6a74949729c752fc53831fe718fffa168d
+content_hash: 2444b114d990085d25ca0cb427740824b7b55f6823a1e2131e6d82236aeedcff
 date: '2025-10-05T08:00:00'
 layout: post
 original_link: https://shows.acast.com/meddlesome/episodes/67ec42e302e789100fbecb59
@@ -11,5 +11,5 @@ Our philosophy was people are smart and will do the right thing...except when th
 
 ---
 
-**Listen to this episode here:** https://shows.acast.com/meddlesome/episodes/67ec42e302e789100fbecb59
+**Catch up with this episode here:** [Smart People Dumb Procedures](https://shows.acast.com/meddlesome/episodes/67ec42e302e789100fbecb59)
 

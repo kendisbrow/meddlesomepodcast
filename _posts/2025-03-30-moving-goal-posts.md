@@ -1,5 +1,5 @@
 ---
-content_hash: 3dbef9276dcf46e048ef11ddec5bceb2a4db8f569f67ae5b9f80bd19a9a80763
+content_hash: 2258519719e9fba2019fef69e83fb068350c7d1dd7d84748d6d5b362e7e21569
 date: '2025-03-30T08:00:59'
 layout: post
 original_link: https://shows.acast.com/meddlesome/episodes/66f83e17b696dfdc6da41a29
@@ -11,5 +11,5 @@ Jim and Ken discuss having the goalposts moved on you and moving the goalposts o
 
 ---
 
-**Listen to this episode here:** https://shows.acast.com/meddlesome/episodes/66f83e17b696dfdc6da41a29
+**Catch up with this episode here:** [Moving Goal Posts](https://shows.acast.com/meddlesome/episodes/66f83e17b696dfdc6da41a29)
 

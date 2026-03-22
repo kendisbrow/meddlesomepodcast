@@ -1,5 +1,5 @@
 ---
-content_hash: 7b515aae461cf6c7378a50e2692053789b0013e23b756e3dbc8eaa50273c0f6f
+content_hash: 341a97d6dab9bc7f29137ccaf6da1dd58b03d02ab976955a970f0754407a9efc
 date: '2024-12-22T09:12:10'
 layout: post
 original_link: https://shows.acast.com/meddlesome/episodes/66f830cfb696dfdc6da11454
@@ -11,5 +11,5 @@ Do your job, do it well, and then move on. It paid off for us in the long run.
 
 ---
 
-**Listen to this episode here:** https://shows.acast.com/meddlesome/episodes/66f830cfb696dfdc6da11454
+**Catch up with this episode here:** [Work Yourself out of a Job](https://shows.acast.com/meddlesome/episodes/66f830cfb696dfdc6da11454)
 

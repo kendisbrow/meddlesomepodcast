@@ -1,5 +1,5 @@
 ---
-content_hash: 562b3a1a4f73e6d6dff609d95df23214173dc38a1a608e1096ca28532d342c28
+content_hash: c39a006005cb5062391bf2579012daf689ac9dc9125bd67defad5c02c2349bf3
 date: '2024-09-29T08:07:15'
 layout: post
 original_link: https://shows.acast.com/meddlesome/episodes/66f5c0b5e2386736b55d2fb9
@@ -11,5 +11,5 @@ What makes a "bad" client? Sometimes, we make our own bad clients; sometimes, th
 
 ---
 
-**Listen to this episode here:** https://shows.acast.com/meddlesome/episodes/66f5c0b5e2386736b55d2fb9
+**Catch up with this episode here:** [Worst Client Ever](https://shows.acast.com/meddlesome/episodes/66f5c0b5e2386736b55d2fb9)
 

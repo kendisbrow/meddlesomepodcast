@@ -1,5 +1,5 @@
 ---
-content_hash: 3454c9d71b0b0c175b0a82f69c802a5158ea3f11097ba6ffd0b00d7f7bbfb73d
+content_hash: de769246d7abd12debaa423ed976540200ea9eeb2821c87d760ed51cb648f35a
 date: '2025-05-18T08:02:35'
 layout: post
 original_link: https://shows.acast.com/meddlesome/episodes/675b6aad36a70d75b65b20ac
@@ -11,5 +11,5 @@ Jim and Ken discuss the roles performed on a project to make it successful. This
 
 ---
 
-**Listen to this episode here:** https://shows.acast.com/meddlesome/episodes/675b6aad36a70d75b65b20ac
+**Catch up with this episode here:** [Roles on a Project](https://shows.acast.com/meddlesome/episodes/675b6aad36a70d75b65b20ac)
 

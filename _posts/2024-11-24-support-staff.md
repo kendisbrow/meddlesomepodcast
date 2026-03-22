@@ -1,5 +1,5 @@
 ---
-content_hash: ab4be668b73eec9ea05906a2ad4271205ba13ee16a2d6828c3c2f2d2bff23eeb
+content_hash: d427b939bbf86b145d0d16101071a3ad8652629c9b6a027bd7c36f5d5612146a
 date: '2024-11-24T09:10:59'
 layout: post
 original_link: https://shows.acast.com/meddlesome/episodes/66f82f8ae27ee87238fcc403
@@ -11,5 +11,5 @@ Support staff are slowly vanishing as a concept. It's too bad because they made 
 
 ---
 
-**Listen to this episode here:** https://shows.acast.com/meddlesome/episodes/66f82f8ae27ee87238fcc403
+**Catch up with this episode here:** [Support Staff](https://shows.acast.com/meddlesome/episodes/66f82f8ae27ee87238fcc403)
 
