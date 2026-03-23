@@ -16,7 +16,7 @@ layout: default
 
   document.getElementById("search-box").value = query;
 
-  fetch("/search.json")
+  fetch("{{ '/search.json' | relative_url }}")
     .then(response => response.json())
     .then(data => {
       const idx = lunr(function () {
