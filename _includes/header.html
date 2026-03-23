@@ -25,7 +25,7 @@
           {%- endfor -%}
         </div>
       </nav>
-      <form action="/search.html" method="get" class="site-search">
+      <form action="{{ '/search.html' | relative_url }}" method="get" class="site-search">
           <input type="text" name="q" placeholder="Search…" aria-label="Search">
       </form>
 
