@@ -1,0 +1,22 @@
+---
+layout: default
+---
+
+{{ content }}
+
+
+{% comment %}
+  Derive the original post slug by removing "-transcript" from this page's slug.
+{% endcomment %}
+{% assign post_slug = page.slug | replace: "-transcript", "" %}
+
+{% comment %}
+  Find the post in site.posts with that slug.
+{% endcomment %}
+{% assign original_post = site.posts | where: "slug", post_slug | first %}
+
+{% if original_post %}
+  <p class="back-link">
+    <a href="{{ original_post.url | relative_url }}">← Back to the episode</a>
+  </p>
+{% endif %}

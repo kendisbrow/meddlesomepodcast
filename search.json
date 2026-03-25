@@ -4,12 +4,13 @@ permalink: /search.json
 ---
 
 [
-  {% for post in site.posts %}
+  {% assign all_docs = site.posts | concat: site.transcripts %}
+  {% for doc in all_docs %}
   {
-    "title": {{ post.title | jsonify }},
-    "url": "{{ post.url | relative_url }}",
-    "date": "{{ post.date | date: "%Y-%m-%d" }}",
-    "content": {{ post.content | strip_html | normalize_whitespace | jsonify }}
+    "title": {{ doc.title | jsonify }},
+    "url": "{{ doc.url | relative_url }}",
+    "date": "{{ doc.date | date: "%Y-%m-%d" }},
+    "content": {{ doc.content | strip_html | normalize_whitespace | jsonify }}
   }{% unless forloop.last %},{% endunless %}
   {% endfor %}
 ]

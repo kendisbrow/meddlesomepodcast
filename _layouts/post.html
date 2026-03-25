@@ -19,6 +19,17 @@ layout: default
     {{ content }}
   </div>
 
+{% assign transcript_slug = page.slug | append: "-transcript" %}
+{% assign transcript = site.transcripts | where: "slug", transcript_slug | first %}
+
+{% if transcript %}
+  <p class="transcript-link">
+    <a href="{{ transcript.url | relative_url }}">Read the transcript →</a>
+  </p>
+{% endif %}
+
+
+
   {%- if site.disqus.shortname -%}
     {%- include disqus_comments.html -%}
   {%- endif -%}

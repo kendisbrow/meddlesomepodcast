@@ -1,8 +1,14 @@
 title: "Meddlesome Podcast"
-description: "Meddlesome Podcast. Short, sharp stories about the real work of running a small business — told by two operators who’ve lived it. No jargon. No theory. Just meddling."
+description: "Meddlesome Podcast. Short, sharp stories about the real work of running a small business \u2014 told by two operators who've lived it. No jargon. No theory. Just meddling." 
 markdown: kramdown
 
 theme: minima
+
+collections:
+  transcripts:
+    output: true
+    permalink: /transcripts/:name/
+    markdown: true
 
 paginate: 6
 paginate_path: "/page:num/"
@@ -11,3 +17,4 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-paginate
+
