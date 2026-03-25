@@ -2,6 +2,27 @@
 layout: default
 ---
 
+{% comment %}
+  Derive the original post slug by removing "-transcript" from this page's slug.
+{% endcomment %}
+{% assign post_slug = page.slug | replace: "-transcript", "" %}
+
+{% comment %}
+  Find the original post.
+{% endcomment %}
+{% assign original_post = site.posts | where: "slug", post_slug | first %}
+
+{% if original_post %}
+  <h1 class="transcript-title">
+    {{ original_post.title }} — Transcript
+  </h1>
+{% else %}
+  <h1 class="transcript-title">
+    Transcript
+  </h1>
+{% endif %}
+
+
 {{ content }}
 
 
