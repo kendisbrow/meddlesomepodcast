@@ -1,15 +1,19 @@
 ---
-content_hash: 5e6ea8812fa9a62f41950f382a6ec62c6531aafd4c5b715e738e6012933bc945
-date: '2025-05-04T08:00:53'
 layout: post
-original_link: https://shows.acast.com/meddlesome/episodes/675b690965cf55f447457fc3
-tags: []
 title: Work From Home
+date: '2025-05-04T08:00:53'
+original_link: https://shows.acast.com/meddlesome/episodes/675b690965cf55f447457fc3
+audio_url: https://sphinx.acast.com/p/open/s/66f2d8406668a6dc746c06ee/e/675b690965cf55f447457fc3/media.mp3
+duration: '13:08'
+episode_id: null
+embed_url: https://embed.acast.com/meddlesome/675b690965cf55f447457fc3
+tags: []
+content_hash: e52e364061cef918af91c8f09f6163640ceae766e71ffeadab220fb55348b6d3
 ---
 
 Jim and Ken discuss their "work from home" rhyme and reasons...spoiler: everyone loved it.
 
----
 
-**Catch up with this episode here:** [Work From Home](https://shows.acast.com/meddlesome/episodes/675b690965cf55f447457fc3)
+
+See this and all our episodes here: [Work From Home](https://shows.acast.com/meddlesome/episodes/675b690965cf55f447457fc3)
 

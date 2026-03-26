@@ -1,15 +1,19 @@
 ---
-content_hash: d50979b7eb5f3da05646917a448561a8b77596686e13a1cbb574fa346a1a8b7f
-date: '2025-03-16T08:01:59'
 layout: post
-original_link: https://shows.acast.com/meddlesome/episodes/66f83d9de27ee87238fffc8f
-tags: []
 title: Customer Alienation
+date: '2025-03-16T08:01:59'
+original_link: https://shows.acast.com/meddlesome/episodes/66f83d9de27ee87238fffc8f
+audio_url: https://sphinx.acast.com/p/open/s/66f2d8406668a6dc746c06ee/e/66f83d9de27ee87238fffc8f/media.mp3
+duration: '12:26'
+episode_id: null
+embed_url: https://embed.acast.com/meddlesome/66f83d9de27ee87238fffc8f
+tags: []
+content_hash: e9147e9e44114a63068c4c8785e0fab56c537c58783e88fed6926503beb8172b
 ---
 
 How to make enemies and alienate customers.
 
----
 
-**Catch up with this episode here:** [Customer Alienation](https://shows.acast.com/meddlesome/episodes/66f83d9de27ee87238fffc8f)
+
+See this and all our episodes here: [Customer Alienation](https://shows.acast.com/meddlesome/episodes/66f83d9de27ee87238fffc8f)
 
