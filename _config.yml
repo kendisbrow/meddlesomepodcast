@@ -1,5 +1,5 @@
 title: "Meddlesome Podcast"
-description: "Meddlesome Podcast. Short, sharp stories about the real work of running a small business \u2014 told by two operators who've lived it. No jargon. No theory. Just meddling." 
+description: "Stories of meddling by two professional meddelers" 
 markdown: kramdown
 
 theme: minima
@@ -18,3 +18,6 @@ plugins:
   - jekyll-seo-tag
   - jekyll-paginate
 
+header_pages:
+  - subscribe.md 
+  - about.md 

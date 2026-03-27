@@ -3,15 +3,11 @@ layout: page
 title: About
 permalink: /about/
 ---
-Short, sharp stories about the real work of running a small business — told by two operators who’ve lived it. No jargon. No theory. Just meddling. 
+Short, sharp stories about the real work of running a small business — told by two operators who’ve lived it. No jargon. No theory. Just meddling. Jim and Ken have been business partners, and more importantly friends, for over thirty years.
 
 
-The Meddlesome Podcast with Jim and Ken is available here. Subscribe with your favorite podcast player:
+# Jim
 
-On [Acast.com](https://shows.acast.com/meddlesome/episodes)
 
-On [Apple Podcasts ](https://podcasts.apple.com/us/podcast/meddlesome/id1771219218)
-
-On [Amazon](https://www.amazon.com/Meddlesome/dp/B0DJ64JRM8)
-
-On [Spotify](https://open.spotify.com/show/4A3GNXtX9Pkp7sAExxb0c6)
+# Ken
+Landscaping, administrative assistance, the next pet rock (hey they can't all be winners), networking, software, and consulting. Ken has started, run, reinvented, and disposed of (sometimes for money!) numerous business. Still insatiably curious and entrepreneurial at heart, he currently lives in the Pacific Northwest. 

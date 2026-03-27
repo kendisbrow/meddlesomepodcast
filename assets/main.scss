@@ -20,14 +20,24 @@ h1, h2, h3, h4, h5, h6 {
   margin-bottom: 0.8rem;
 }
 /* Optional refinements */
+.site-title {
+  font-family: "Raleway", sans-serif;
+  font-size: 1.6rem;   /* increase size */
+  font-weight: 300;    /* bold */
+  letter-spacing: 0.5px; /* optional, looks great with Raleway */
+}
+
 .post-title {
-  font-weight: 700;
+  font-weight: 100;
   letter-spacing: 0.6px;
 }
 
 .site-nav .page-link {
-  font-family: "Raleway", sans-serif;
-  font-weight: 500;
+  font-family: "Open Sans", sans-serif;
+  font-size: 1rem;     /* smaller */
+  font-weight: 300;      /* lighter */
+  opacity: 0.85;         /* subtle fade */
+  margin-left: 1rem;     /* keeps spacing clean */
 }
 
 .site-footer {

@@ -2,6 +2,7 @@
 layout: page
 title: Subscribe
 permalink: /subscribe/
+nav_order: 1
 ---
 
 Listen to, or better yet subscribe, to Meddlesome at your favorite Podcast service below.
