@@ -8,12 +8,7 @@ duration: '12:17'
 episode_id: null
 embed_url: https://embed.acast.com/meddlesome/67ec43cf952471313263f28c
 tags: []
-content_hash: a9f5443529871690da4607ef3bd6614436e0ad3d3b2879b5241b095549fe7e62
+content_hash: f42dcbc5f9480a7cdc99a2e2abe6ff1950fc3f8e5fc75a77229a607b2a135578
 ---
 
-Jim and Ken discuss how a consultant (or entrepreneur) should dress in front of clients or prospective clients. Client +1 is the take away...though we both admit we have no fashion sense.
-
-
-
-See this and all our episodes here: [Dress Code](https://shows.acast.com/meddlesome/episodes/67ec43cf952471313263f28c)
-
+Jim and Ken discuss how a consultant (or entrepreneur) should dress in front of clients or prospective clients. Client +1 is the take away...though we both admit we have no fashion sense. 

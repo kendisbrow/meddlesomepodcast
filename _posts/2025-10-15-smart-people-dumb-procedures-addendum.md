@@ -8,12 +8,7 @@ duration: '1:51'
 episode_id: null
 embed_url: https://embed.acast.com/meddlesome/68f0082b7bfd907816d47c5b
 tags: []
-content_hash: 7cde53b4b438c30aaa92c4f310e4140fb8187e5aeaab5aea001123cffcc6d412
+content_hash: b2b46aa9f4b47b7f4257a4fa0df9519eda77f66d1ef60e15c8fbc7408f860b60
 ---
 
-A few minor clarifications to our Smart People Dumb Procedures episode
-
-
-
-See this and all our episodes here: [Smart People Dumb Procedures - Addendum](https://shows.acast.com/meddlesome/episodes/68f0082b7bfd907816d47c5b)
-
+A few minor clarifications to our Smart People Dumb Procedures episode 

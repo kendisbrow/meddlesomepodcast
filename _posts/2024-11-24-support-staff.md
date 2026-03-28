@@ -8,12 +8,7 @@ duration: '12:01'
 episode_id: null
 embed_url: https://embed.acast.com/meddlesome/66f82f8ae27ee87238fcc403
 tags: []
-content_hash: b06fac640e137f915ceebf136f2641252918f74ec6ac8687d2c6df3408eeef95
+content_hash: e3f633da847b7598684891ab019520d0d5fffbf02e38896d7941a93cf7496f2f
 ---
 
-Support staff are slowly vanishing as a concept. It's too bad because they made us successful.
-
-
-
-See this and all our episodes here: [Support Staff](https://shows.acast.com/meddlesome/episodes/66f82f8ae27ee87238fcc403)
-
+Support staff are slowly vanishing as a concept. It's too bad because they made us successful. 

@@ -8,12 +8,7 @@ duration: '10:51'
 episode_id: null
 embed_url: https://embed.acast.com/meddlesome/66f8321dacfe1ec5ecd48888
 tags: []
-content_hash: d50611dca20c0b41b2d73973064e62b23395b84a4cb7d190e2d53d10f7e553b9
+content_hash: 50eb916b3746ff036ce2d144a2d423caff8381209fa5913286a04150496ac3ae
 ---
 
-Jim and Ken talk about conducting business calls in public. Really?
-
-
-
-See this and all our episodes here: [The Public Business Call](https://shows.acast.com/meddlesome/episodes/66f8321dacfe1ec5ecd48888)
-
+Jim and Ken talk about conducting business calls in public. Really? 

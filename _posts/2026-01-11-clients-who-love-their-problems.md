@@ -8,12 +8,7 @@ duration: '11:11'
 episode_id: null
 embed_url: https://embed.acast.com/meddlesome/6887e0cd6e658a8b3c7b1951
 tags: []
-content_hash: 37ce1e8ea1ff9bba48ef2c25ba8572ad81a8cb4640f22f592688e0b4f291c9d7
+content_hash: cbbeda58bb740b2868b4d8b16742c7f5878b7d2ef4900339ed62916e1b29a73e
 ---
 
-Why some clients cling to their problems instead of seeking solutions
-
-
-
-See this and all our episodes here: [Clients who love their problems](https://shows.acast.com/meddlesome/episodes/6887e0cd6e658a8b3c7b1951)
-
+Why some clients cling to their problems instead of seeking solutions 

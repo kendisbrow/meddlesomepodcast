@@ -8,12 +8,7 @@ duration: '13:56'
 episode_id: null
 embed_url: https://embed.acast.com/meddlesome/6887e19c2a38d6f5cb95fb60
 tags: []
-content_hash: e26c5b37843316a8f24b42143aa684d7a743d09568122b13bbcc7272721490be
+content_hash: 2d21307305f16482aa7067bc3dc147682d089191f3cffc05a583ce211c608981
 ---
 
-We discuss the complexities of hiring interviews and all the mistakes we made!
-
-
-
-See this and all our episodes here: [Hiring Interviews](https://shows.acast.com/meddlesome/episodes/6887e19c2a38d6f5cb95fb60)
-
+We discuss the complexities of hiring interviews and all the mistakes we made! 

@@ -8,12 +8,7 @@ duration: '10:49'
 episode_id: null
 embed_url: https://embed.acast.com/meddlesome/66f83058319ddcafcb9c1c89
 tags: []
-content_hash: 7e222316537f4e815e203071164a4a1bb1c5b4fa1d8650ebffe611ff8ae4c16a
+content_hash: 638ab72829b74d7e14dc23100e84a38c6af073c3128ca5eb5354c3b6d367ed85
 ---
 
-We're amazed most consultants don't get to know their clients on a personal level. We're not talking about schmoozing but developing an honest friendship with them.
-
-
-
-See this and all our episodes here: [Unstructured Time with the Client](https://shows.acast.com/meddlesome/episodes/66f83058319ddcafcb9c1c89)
-
+We're amazed most consultants don't get to know their clients on a personal level. We're not talking about schmoozing but developing an honest friendship with them. 

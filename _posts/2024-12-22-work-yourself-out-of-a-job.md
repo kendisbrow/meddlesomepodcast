@@ -8,12 +8,7 @@ duration: '10:23'
 episode_id: null
 embed_url: https://embed.acast.com/meddlesome/66f830cfb696dfdc6da11454
 tags: []
-content_hash: 03d9571f5ce8c0892b17a0357575b22ce4de475c27e7e954ec8c4fb10da792af
+content_hash: 6a90b9ff9876d10a13e18e3d05a5fbd12fa608daf005056784bbf0c5a46c6265
 ---
 
-Do your job, do it well, and then move on. It paid off for us in the long run.
-
-
-
-See this and all our episodes here: [Work Yourself out of a Job](https://shows.acast.com/meddlesome/episodes/66f830cfb696dfdc6da11454)
-
+Do your job, do it well, and then move on. It paid off for us in the long run. 

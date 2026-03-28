@@ -8,12 +8,7 @@ duration: '9:33'
 episode_id: null
 embed_url: https://embed.acast.com/meddlesome/6887e44d459778d8a3ef33b9
 tags: []
-content_hash: 95cc9de93a9c3166a2158fde4c942b06bb309111d4681306e49a027a319e77ac
+content_hash: cc806a7820e91950f1af04450304c7b83205abd32338ad8a8517d14f9e5a9115
 ---
 
-In this episode, Jim and Ken share their journey through the complexities of decision-making in both business and life, highlighting our struggles with indecision and analysis paralysis.
-
-
-
-See this and all our episodes here: [Making Decisions](https://shows.acast.com/meddlesome/episodes/6887e44d459778d8a3ef33b9)
-
+In this episode, Jim and Ken share their journey through the complexities of decision-making in both business and life, highlighting our struggles with indecision and analysis paralysis. 

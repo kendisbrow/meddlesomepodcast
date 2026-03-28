@@ -8,12 +8,7 @@ duration: '13:25'
 episode_id: null
 embed_url: https://embed.acast.com/meddlesome/67ec46eb02e789100fc0c594
 tags: []
-content_hash: 71dd67476130f7c18e872a668a35a47079bec26b04b83614b1107018b8960fa0
+content_hash: 7728e3d5f2255223ae281dc8de3c217737270b7c1d7379ad17809f327d2b63fc
 ---
 
-Jim and Ken discuss the value of consultant reports. You get a few tips on how to improve your reports.
-
-
-
-See this and all our episodes here: [Report Writing](https://shows.acast.com/meddlesome/episodes/67ec46eb02e789100fc0c594)
-
+Jim and Ken discuss the value of consultant reports. You get a few tips on how to improve your reports. 

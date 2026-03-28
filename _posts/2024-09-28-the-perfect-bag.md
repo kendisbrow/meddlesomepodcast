@@ -8,12 +8,7 @@ duration: '7:35'
 episode_id: null
 embed_url: https://embed.acast.com/meddlesome/66f5bf9b9767dcb4436bc992
 tags: []
-content_hash: b4955aa70d9a608cb90859b5f6b9e7e439c30e856595e98defe26f47186c52e8
+content_hash: 2c0159ae853bbb16747cdd9fd01e393122eaf5740f4059848556186f04e59b69
 ---
 
-Jim and Ken dive right into the important stuff - selecting a briefcase, well really something to cart your stuff around.
-
-
-
-See this and all our episodes here: [The Perfect Bag](https://shows.acast.com/meddlesome/episodes/66f5bf9b9767dcb4436bc992)
-
+Jim and Ken dive right into the important stuff - selecting a briefcase, well really something to cart your stuff around. 

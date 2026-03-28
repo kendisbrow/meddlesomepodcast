@@ -8,12 +8,7 @@ duration: '19:31'
 episode_id: null
 embed_url: https://embed.acast.com/meddlesome/67d8e74289c80e5ef051a9c9
 tags: []
-content_hash: fe6fc9dccd0ebe0085834767c5aba9c2ecb55261b7baa8058797a4ba6e6e01ef
+content_hash: 95886c53de0ff4f83f4d60a249849a7d5935a95cde6d6e4127b6c8e470294087
 ---
 
-Advice for clients. Jim and Ken talk about how to manage your consultant.
-
-
-
-See this and all our episodes here: [Managing Your Consultant](https://shows.acast.com/meddlesome/episodes/67d8e74289c80e5ef051a9c9)
-
+Advice for clients. Jim and Ken talk about how to manage your consultant. 

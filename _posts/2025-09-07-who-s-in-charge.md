@@ -8,12 +8,7 @@ duration: '14:45'
 episode_id: null
 embed_url: https://embed.acast.com/meddlesome/67d8eb9bf48da98092e7058c
 tags: []
-content_hash: ae3d31f8bb6c40cd28cbc5ca8ae462a3518ee37bde3f54165194fb6e4888744b
+content_hash: 2527f2227e86f279faf9b9f7e06bc569f0de8c0dda3ea6752515bdaa01151105
 ---
 
-Jim and Ken discuss what behaviors and rules an organization needs to thrive.
-
-
-
-See this and all our episodes here: [Who's In Charge?](https://shows.acast.com/meddlesome/episodes/67d8eb9bf48da98092e7058c)
-
+Jim and Ken discuss what behaviors and rules an organization needs to thrive. 

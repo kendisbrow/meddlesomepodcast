@@ -8,12 +8,7 @@ duration: '10:39'
 episode_id: null
 embed_url: https://embed.acast.com/meddlesome/67ec42e302e789100fbecb59
 tags: []
-content_hash: db7620fc68ac8977ff290a50e35ab7721ec5b56425b053a812cb2de9b2d94027
+content_hash: 6fdea7222b1ba8a4f7e8536145b4a901db66ddfaada459a47129b9720f931715
 ---
 
-Our philosophy was people are smart and will do the right thing...except when they don't. Smart people can, and often do, dumb things, particularly when it involves mindless tasks. We talk about balancing people doing the right thing and corporate policies and procedures.
-
-
-
-See this and all our episodes here: [Smart People Dumb Procedures](https://shows.acast.com/meddlesome/episodes/67ec42e302e789100fbecb59)
-
+Our philosophy was people are smart and will do the right thing...except when they don't. Smart people can, and often do, dumb things, particularly when it involves mindless tasks. We talk about balancing people doing the right thing and corporate policies and procedures. 

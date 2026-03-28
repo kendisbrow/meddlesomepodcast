@@ -8,12 +8,7 @@ duration: '14:18'
 episode_id: null
 embed_url: https://embed.acast.com/meddlesome/66f82a75319ddcafcb9af198
 tags: []
-content_hash: 61725a2d0516addf134691bf6129ff61ec59c73bb04a0d23c39955b67baa912d
+content_hash: a9490b11ef105bcc327b3519509cd8402cf79871f1368cd9752e7f0f7eee7322
 ---
 
-Why do companies have a mission? How is it developed? Is it a written document? How is it best developed?
-
-
-
-See this and all our episodes here: [Sense of Mission](https://shows.acast.com/meddlesome/episodes/66f82a75319ddcafcb9af198)
-
+Why do companies have a mission? How is it developed? Is it a written document? How is it best developed? 

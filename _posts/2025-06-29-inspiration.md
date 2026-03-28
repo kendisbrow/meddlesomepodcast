@@ -8,12 +8,7 @@ duration: '13:57'
 episode_id: null
 embed_url: https://embed.acast.com/meddlesome/67d8e664b53c7ef4aa72cebe
 tags: []
-content_hash: f000962060b24be43038eabaf71af980dec06a3d66e8cd5f77f41e6b8bc11669
+content_hash: 61089799079a5362b3bcfd548656911127eb8c33c78fb31d15610e9e8c47215d
 ---
 
-Jim and Ken explore their sources of inspiration.
-
-
-
-See this and all our episodes here: [Inspiration](https://shows.acast.com/meddlesome/episodes/67d8e664b53c7ef4aa72cebe)
-
+Jim and Ken explore their sources of inspiration. 

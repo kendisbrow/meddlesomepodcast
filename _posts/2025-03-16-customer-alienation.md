@@ -8,12 +8,7 @@ duration: '12:26'
 episode_id: null
 embed_url: https://embed.acast.com/meddlesome/66f83d9de27ee87238fffc8f
 tags: []
-content_hash: e9147e9e44114a63068c4c8785e0fab56c537c58783e88fed6926503beb8172b
+content_hash: 36e4dfec7906b6747143099e541db9e4362a34660f6eb70d169f56618ea375d7
 ---
 
-How to make enemies and alienate customers.
-
-
-
-See this and all our episodes here: [Customer Alienation](https://shows.acast.com/meddlesome/episodes/66f83d9de27ee87238fffc8f)
-
+How to make enemies and alienate customers. 

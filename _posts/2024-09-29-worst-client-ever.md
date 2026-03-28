@@ -8,12 +8,7 @@ duration: '12:46'
 episode_id: null
 embed_url: https://embed.acast.com/meddlesome/66f5c0b5e2386736b55d2fb9
 tags: []
-content_hash: f43788b2cc2029f166c76c809beaf38e187995a6a3a1ca0b722704cb3d8e7e69
+content_hash: df384794a8def3d117e5a42b2ba287ad5ba740fa249c158114877c61594b6f57
 ---
 
-What makes a "bad" client? Sometimes, we make our own bad clients; sometimes, they come that way. Either way, Ken still has issues.
-
-
-
-See this and all our episodes here: [Worst Client Ever](https://shows.acast.com/meddlesome/episodes/66f5c0b5e2386736b55d2fb9)
-
+What makes a "bad" client? Sometimes, we make our own bad clients; sometimes, they come that way. Either way, Ken still has issues. 

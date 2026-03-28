@@ -8,12 +8,7 @@ duration: '13:39'
 episode_id: null
 embed_url: https://embed.acast.com/meddlesome/66f832a5acfe1ec5ecd4b18f
 tags: []
-content_hash: 2f1aad999f9b01237e34557750ebc403b551b2237ef7008d4a2da7503dfba1c5
+content_hash: a23a72b70508ad5dc0a0f774f022a94c69ccbaeadffebcc20a676db8139d6b48
 ---
 
-Following on from our talk about mission, Jim and Ken talk about corporate culture, how it develops, and what changes it, not always for the better.
-
-
-
-See this and all our episodes here: [Corporate Culture](https://shows.acast.com/meddlesome/episodes/66f832a5acfe1ec5ecd4b18f)
-
+Following on from our talk about mission, Jim and Ken talk about corporate culture, how it develops, and what changes it, not always for the better. 

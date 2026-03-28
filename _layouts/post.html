@@ -15,21 +15,7 @@ layout: default
       {%- endif -%}</p>
   </header>
 
-  <!--
-{% if page.embed_url %}
-  <div class="episode-player-wrapper">
-    <iframe
-      src="{{ page.embed_url }}"
-      width="100%"
-      height="90"
-      frameborder="0"
-      scrolling="no"
-      allow="autoplay"
-      loading="lazy">
-    </iframe>
-  </div>
-{% endif %}
--->
+
 {% if page.embed_url %}
   <div class="episode-player-wrapper">
     <iframe
@@ -64,3 +50,18 @@ layout: default
 
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
 </article>
+
+<nav class="post-nav">
+  {% if page.previous %}
+  <a class="post-nav-prev" href="{{ page.previous.url | relative_url }}">
+    ← {{ page.previous.title }}
+  </a>
+  {% endif %}
+
+  {% if page.next %}
+  <a class="post-nav-next" href="{{ page.next.url | relative_url }}">
+    {{ page.next.title }} →
+  </a>
+  {% endif %}
+</nav>
+

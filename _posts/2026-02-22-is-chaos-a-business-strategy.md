@@ -8,12 +8,7 @@ duration: '12:28'
 episode_id: null
 embed_url: https://embed.acast.com/meddlesome/6887e393e0a86cc3abf50ba0
 tags: []
-content_hash: 6b32dcd8cebc39df803cbe066f1db6a7fd7e9ed4881d97408580ad7e21d86901
+content_hash: 57cb4c7eb2b2f4a1b76775c878509f9e5dbef43aca5da62fa9a95d9ccb48023e
 ---
 
-Jim and Ken examine the relationship between chaos and business strategy, questioning if chaos can drive productivity within organizations
-
-
-
-See this and all our episodes here: [Is Chaos a business strategy](https://shows.acast.com/meddlesome/episodes/6887e393e0a86cc3abf50ba0)
-
+Jim and Ken examine the relationship between chaos and business strategy, questioning if chaos can drive productivity within organizations 

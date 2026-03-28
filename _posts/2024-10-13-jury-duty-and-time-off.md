@@ -8,12 +8,7 @@ duration: '12:29'
 episode_id: null
 embed_url: https://embed.acast.com/meddlesome/66f5c134e2386736b55d4a65
 tags: []
-content_hash: 48a445521d3ff3d223f587d9fab1a038ca981274f9cf66bef5edb717b82595d0
+content_hash: edee716415dcaf87f0af1390a86cfc87b84da90d42958e89d6cbf7145c4495b2
 ---
 
-Sometimes, going against the grain in a business has unintended consequences. Here we discuss time off and vacation policy.
-
-
-
-See this and all our episodes here: [Jury Duty and Time Off](https://shows.acast.com/meddlesome/episodes/66f5c134e2386736b55d4a65)
-
+Sometimes, going against the grain in a business has unintended consequences. Here we discuss time off and vacation policy. 

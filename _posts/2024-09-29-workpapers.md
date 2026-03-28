@@ -8,12 +8,7 @@ duration: '10:14'
 episode_id: null
 embed_url: https://embed.acast.com/meddlesome/66f5c052337e6a756fe7ed47
 tags: []
-content_hash: 6e2271bca02537868a08768471e6e96515d95b047fee512966ae5bb5cd5b8812
+content_hash: 9cef3811642fb0858e3e0dc66de8e2127d60ca79f6ba68557911452cf202dba8
 ---
 
-Carefully documenting your work is an important part of consulting...or is it?
-
-
-
-See this and all our episodes here: [Workpapers](https://shows.acast.com/meddlesome/episodes/66f5c052337e6a756fe7ed47)
-
+Carefully documenting your work is an important part of consulting...or is it? 

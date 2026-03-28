@@ -8,12 +8,7 @@ duration: '11:13'
 episode_id: null
 embed_url: https://embed.acast.com/meddlesome/67ec4530d4b40d7b308fa50d
 tags: []
-content_hash: 8d5ea8207466f18b582b01c2042b8a5aed259a509dadff281cf8c7228603dac2
+content_hash: 1edf15b1f09b34679da645cf5bca00ff1ec0a4158b4b54a5bfec9cce9c1bfa79
 ---
 
-Jim and Ken talk about loyalty programs. Airlines, stores, hotels, and online services all offer some form of them. Is it worth the effort?
-
-
-
-See this and all our episodes here: [Loyalty Programs](https://shows.acast.com/meddlesome/episodes/67ec4530d4b40d7b308fa50d)
-
+Jim and Ken talk about loyalty programs. Airlines, stores, hotels, and online services all offer some form of them. Is it worth the effort? 

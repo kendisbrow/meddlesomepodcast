@@ -8,12 +8,7 @@ duration: '12:24'
 episode_id: null
 embed_url: https://embed.acast.com/meddlesome/675b6b4d2cbf79482008f8b4
 tags: []
-content_hash: 508e25bf715b63099558bb200c7ba79c273ef05998ccca46d60668074c0ea9cb
+content_hash: e5267376bf0efe41ca635db3bbdc398bd25cd03241b0c9cd39fbf7de3407a205
 ---
 
-Jim and Ken discuss their approaches to presentations. Ken gives Jim glowing reviews for his approach. Both discuss their philosophy and a few tricks behind their success.
-
-
-
-See this and all our episodes here: [Presentations](https://shows.acast.com/meddlesome/episodes/675b6b4d2cbf79482008f8b4)
-
+Jim and Ken discuss their approaches to presentations. Ken gives Jim glowing reviews for his approach. Both discuss their philosophy and a few tricks behind their success. 

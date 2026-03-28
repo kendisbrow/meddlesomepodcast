@@ -8,12 +8,7 @@ duration: '13:08'
 episode_id: null
 embed_url: https://embed.acast.com/meddlesome/675b690965cf55f447457fc3
 tags: []
-content_hash: e52e364061cef918af91c8f09f6163640ceae766e71ffeadab220fb55348b6d3
+content_hash: d4ff493edbb4dd6958f62caae8a556f2aa63732a43f3612f452109cf5995e059
 ---
 
-Jim and Ken discuss their "work from home" rhyme and reasons...spoiler: everyone loved it.
-
-
-
-See this and all our episodes here: [Work From Home](https://shows.acast.com/meddlesome/episodes/675b690965cf55f447457fc3)
-
+Jim and Ken discuss their "work from home" rhyme and reasons...spoiler: everyone loved it. 

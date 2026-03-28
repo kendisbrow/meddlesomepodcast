@@ -97,3 +97,24 @@ h1, h2, h3, h4, h5, h6 {
   height: 100%;
   border: 0;
 }
+
+.post-nav {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 3rem;
+  padding-top: 1.5rem;
+  border-top: 0px solid #ddd;
+}
+
+.post-nav a {
+  font-family: "Raleway", sans-serif;
+  font-size: 0.95rem;
+  color: #333;
+  text-decoration: none;
+  opacity: 0.85;
+}
+
+.post-nav a:hover {
+  opacity: 1;
+  text-decoration: underline;
+}

@@ -8,12 +8,7 @@ duration: '18:41'
 episode_id: null
 embed_url: https://embed.acast.com/meddlesome/66f82b1f88389f1666ef74aa
 tags: []
-content_hash: 727457b0fcf1d1799f1e67846f51d30ae0f6fd6aafd3e6fb5c0800c57a5280be
+content_hash: 516c82447edd126e9600b67cbf373e57973f07ef4241ea77757884c096b62c06
 ---
 
-Once again, tackling the tricky question: What pen do you like? And the benefits of low-tech tools.
-
-
-
-See this and all our episodes here: [Low Tech Tools](https://shows.acast.com/meddlesome/episodes/66f82b1f88389f1666ef74aa)
-
+Once again, tackling the tricky question: What pen do you like? And the benefits of low-tech tools. 

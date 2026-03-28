@@ -8,12 +8,7 @@ duration: '11:37'
 episode_id: null
 embed_url: https://embed.acast.com/meddlesome/66f83e17b696dfdc6da41a29
 tags: []
-content_hash: c4bcf39d00911e01e5a6c10c8ab50706c12bd0d1a147587ff87595c98538c8ee
+content_hash: 0072a405e4e3e9369a584c009efbb4f23394e6897448df88e63360ca46cc1f55
 ---
 
-Jim and Ken discuss having the goalposts moved on you and moving the goalposts on others.
-
-
-
-See this and all our episodes here: [Moving Goal Posts](https://shows.acast.com/meddlesome/episodes/66f83e17b696dfdc6da41a29)
-
+Jim and Ken discuss having the goalposts moved on you and moving the goalposts on others. 

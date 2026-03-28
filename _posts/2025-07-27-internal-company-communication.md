@@ -8,12 +8,7 @@ duration: '13:03'
 episode_id: null
 embed_url: https://embed.acast.com/meddlesome/67d8e8be89c80e5ef051e9cb
 tags: []
-content_hash: d2a5aefdba3ac790aea0c656b8a64a7de2e6d0e255e2143f10e4aca34c7b6933
+content_hash: 0a1bcdbe7b11987b829a99ec59e7e3532f196730150c4636cb5fed7de2bfaebc
 ---
 
-Jim and Ken discuss internal company communication - is there anything useful that comes of it?
-
-
-
-See this and all our episodes here: [Internal Company Communication](https://shows.acast.com/meddlesome/episodes/67d8e8be89c80e5ef051e9cb)
-
+Jim and Ken discuss internal company communication - is there anything useful that comes of it? 

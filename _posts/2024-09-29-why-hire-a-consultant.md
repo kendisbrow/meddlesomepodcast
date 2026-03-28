@@ -8,12 +8,7 @@ duration: '8:41'
 episode_id: null
 embed_url: https://embed.acast.com/meddlesome/66f5bfe3995c57f56e4f9cf4
 tags: []
-content_hash: db41a2033889c448efd3a1751f67be365a37a14df71814cf68fddbf58754d854
+content_hash: 1ba1979bc62f9a35e7c03819988b8965413f9cdfc48ee8c5f032719aab86213a
 ---
 
-Why on earth would someone hire a consultant?
-
-
-
-See this and all our episodes here: [Why Hire a Consultant](https://shows.acast.com/meddlesome/episodes/66f5bfe3995c57f56e4f9cf4)
-
+Why on earth would someone hire a consultant? 
