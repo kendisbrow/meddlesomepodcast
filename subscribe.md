@@ -5,7 +5,7 @@ permalink: /subscribe/
 nav_order: 1
 ---
 
-Listen to, or better yet subscribe, to Meddlesome at your favorite Podcast service below.
+Listen, or better yet subscribe, to Meddlesome at your favorite Podcast service below.
 
 
 [Acast](https://shows.acast.com/meddlesome/episodes)
