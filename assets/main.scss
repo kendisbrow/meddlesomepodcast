@@ -22,15 +22,12 @@ h1, h2, h3, h4, h5, h6 {
 /* Optional refinements */
 .site-title {
   font-family: "Raleway", sans-serif;
-  font-size: 1.6rem;   /* increase size */
+  font-size: 1.8rem;   /* increase size */
   font-weight: 300;    /* bold */
   letter-spacing: 0.5px; /* optional, looks great with Raleway */
 }
 
-.post-title {
-  font-weight: 100;
-  letter-spacing: 0.6px;
-}
+
 
 .site-nav .page-link {
   font-family: "Open Sans", sans-serif;
@@ -116,4 +113,23 @@ h1, h2, h3, h4, h5, h6 {
 .post-nav a:hover {
   opacity: 1;
   text-decoration: underline;
+}
+
+.post-list-heading {
+  font-family: "Raleway", sans-serif;
+  font-weight: 400;   /* lighter */
+  opacity: 0.7;       /* softens it nicely */
+}
+
+.post-link {
+  font-family: "Raleway", sans-serif;
+  font-weight: 400;   /* lighter than default */
+  opacity: 0.85;      /* subtle fade */
+}
+
+.post-title {
+  font-weight: 200;
+  font-size: 1.8rem;
+  opacity: 0.5;
+  letter-spacing: 0.6px;
 }
