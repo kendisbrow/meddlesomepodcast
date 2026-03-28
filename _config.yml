@@ -5,7 +5,7 @@ markdown: kramdown
 theme: minima
 
 url: "https://kendisbrow.github.io"
-baseurl: "/meddlesomepodcast"
+baseurl: ""
 
 
 collections:
