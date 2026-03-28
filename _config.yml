@@ -4,6 +4,10 @@ markdown: kramdown
 
 theme: minima
 
+url: "https://kendisbrow.github.io"
+baseurl: "/meddlesomepodcast"
+
+
 collections:
   transcripts:
     output: true
