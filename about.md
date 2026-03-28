@@ -10,4 +10,4 @@ Short, sharp stories about the real work of running a small business — told by
 
 
 # Ken
-Landscaping, administrative assistance, the next pet rock (hey they can't all be winners), networking, software, and consulting. Ken has started, run, reinvented, and disposed of (sometimes for money!) numerous business. Still insatiably curious and entrepreneurial at heart, he currently lives in the Pacific Northwest. 
+Landscaping, administrative assistance, the next pet rock (hey they can't all be winners), housing trusses, networking, software, and consulting. Ken has evaluated, started, run, reinvented, and disposed of numerous businesses. Sometimes he even made money doing so. Still insatiably curious and entrepreneurial at heart, he currently lives in the Pacific Northwest. 
