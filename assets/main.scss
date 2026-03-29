@@ -19,6 +19,12 @@ h1, h2, h3, h4, h5, h6 {
   margin-top: 1.6rem;
   margin-bottom: 0.8rem;
 }
+
+/* widen the whole site */
+.wrapper {
+  max-width: 1000px;
+}
+
 /* Optional refinements */
 .site-title {
   font-family: "Raleway", sans-serif;
@@ -31,7 +37,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .site-nav .page-link {
   font-family: "Open Sans", sans-serif;
-  font-size: 1rem;     /* smaller */
+  font-size: 0.9rem;     /* smaller */
   font-weight: 300;      /* lighter */
   opacity: 0.85;         /* subtle fade */
   margin-left: 1rem;     /* keeps spacing clean */
