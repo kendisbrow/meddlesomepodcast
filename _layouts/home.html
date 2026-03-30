@@ -15,14 +15,29 @@ layout: default
     <ul class="post-list">
       {%- for post in paginator.posts -%}
       <li>
-        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-        <span class="post-meta">{{ post.date | date: date_format }}</span>
 
-        <h3>
-          <a class="post-link" href="{{ post.url | relative_url }}">
-            {{ post.title | escape }}
-          </a>
-        </h3>
+      {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+      <span class="post-meta">{{ post.date | date: date_format }}</span>
+
+      <h3>
+        {% assign s = post.season_number | default: "" | append: "" %}
+        {% assign e = post.episode_number | default: "" | append: "" %}
+
+        <a class="post-link" href="{{ post.url | relative_url }}">
+          {% if s != "" and e != "" %}
+            <span class="episode-meta">
+              S{% if s.size < 2 %}0{% endif %}{{ s }}
+              E{% if e.size < 2 %}0{% endif %}{{ e }} —
+            </span>
+          {% elsif e != "" %}
+            <span class="episode-meta">
+              Episode {{ e }} —
+            </span>
+          {% endif %}
+          {{ post.title | escape }}
+        </a>
+      </h3>
+
 
         {{ post.excerpt }}
 

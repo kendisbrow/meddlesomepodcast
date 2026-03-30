@@ -7,6 +7,8 @@ audio_url: https://sphinx.acast.com/p/open/s/66f2d8406668a6dc746c06ee/e/67ec46eb
 duration: '13:25'
 episode_id: null
 embed_url: https://embed.acast.com/meddlesome/67ec46eb02e789100fc0c594
+season_number: 2
+episode_number: 6
 tags: []
 content_hash: 7728e3d5f2255223ae281dc8de3c217737270b7c1d7379ad17809f327d2b63fc
 ---
