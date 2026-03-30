@@ -23,5 +23,6 @@ plugins:
   - jekyll-paginate
 
 header_pages:
+  - resources.md
   - subscribe.md 
   - about.md 
