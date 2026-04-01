@@ -24,5 +24,6 @@ plugins:
 
 header_pages:
   - resources.md
-  - subscribe.md 
-  - about.md 
+  - subscribe.md
+  - feedback.md 
+  - about.md
