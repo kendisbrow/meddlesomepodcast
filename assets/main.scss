@@ -168,3 +168,19 @@ form button {
 form button:hover {
   background: #555;
 }
+
+.back-home a {
+  display: inline-block;
+  padding: 0.4rem 0.8rem;
+  background: #f2f2f2;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  text-decoration: none;
+  font-size: 0.9rem;
+  opacity: 0.85;
+}
+
+.back-home a:hover {
+  background: #e8e8e8;
+  opacity: 1;
+}

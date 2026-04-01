@@ -15,6 +15,10 @@ layout: default
 <script src="https://cdn.jsdelivr.net/npm/lunr/lunr.min.js"></script>
 --->
 
+<p class="back-home">
+  <a href="{{ '/' | relative_url }}">← Back to Home</a>
+</p>
+
 <script>
   const params = new URLSearchParams(window.location.search);
   const query = params.get("q") || "";
