@@ -184,3 +184,9 @@ form button:hover {
   background: #e8e8e8;
   opacity: 1;
 }
+.about-photo {
+  float: left;
+  width: 300px;        /* adjust to taste */
+  margin: 0 1.2rem 1rem 0;
+  border-radius: 6px;  /* optional, looks nice */
+}
