@@ -1,0 +1,74 @@
+/* ===========================
+   Meddlesome Theme Accents
+   =========================== */
+
+/* Brand Colors */
+:root {
+    --brand-yellow: #F3E44E;
+    --accent-slate: #4A5B7C;
+    --accent-bluegray: #6B7A8F;
+    --neutral-graphite: #333333;
+    --bg-mist: #F5F7FA;
+}
+
+/* Links */
+a {
+    color: var(--accent-slate);
+    text-decoration-color: var(--brand-yellow);
+}
+
+a:hover {
+    color: var(--accent-bluegray);
+    text-decoration-color: var(--brand-yellow);
+}
+
+/* Buttons */
+button,
+.button,
+input[type="submit"] {
+    background: var(--accent-slate);
+    color: white;
+    border: none;
+    padding: 0.6rem 1rem;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+button:hover,
+.button:hover,
+input[type="submit"]:hover {
+    background: var(--accent-bluegray);
+}
+
+/* Pagination */
+.pagination a {
+    border: 1px solid var(--accent-slate);
+    color: var(--accent-slate);
+}
+
+.pagination a:hover {
+    background: var(--brand-yellow);
+    color: var(--neutral-graphite);
+    border-color: var(--brand-yellow);
+}
+
+/* Section headers */
+h2,
+h3 {
+    border-bottom: 3px solid var(--brand-yellow);
+    padding-bottom: 0.2rem;
+}
+
+/* Subtle background panels */
+.panel {
+    background: var(--bg-mist);
+    padding: 1.2rem;
+    border-radius: 6px;
+    margin: 1.5rem 0;
+}
+
+/* Search highlight */
+mark {
+    background: var(--brand-yellow);
+    color: var(--neutral-graphite);
+}
