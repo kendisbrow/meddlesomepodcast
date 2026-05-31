@@ -13,4 +13,4 @@ tags: []
 content_hash: 35ba07588ac7dbf292f42cede6602416e9506c7da7c1a2c68cb9f9b25bf14a39
 ---
 
-Ken puts Jim on the spot by having him dissect a load of corporate speak about layoffs and the impact of AI on a business.&nbsp; Unintentionally, this has ended up being a follow-on to Episode 2.14 "Consultant Lingo Bingo" and kind of study in Epistemic Capture. Can Jim make sense of it? Could any of us? Tune in and find out. 
+Ken puts Jim on the spot by having him dissect a load of corporate speak about layoffs and the impact of AI on a business.&nbsp; Unintentionally, this has ended up being a follow-on to Episode 2.14 "Consultant Lingo Bingo" and kind of a study in Epistemic Capture. Can Jim make sense of it? Could any of us? Tune in and find out. 
