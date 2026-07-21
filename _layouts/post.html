@@ -33,8 +33,9 @@ layout: default
     {{ content }}
   </div>
 
-{% assign transcript_slug = page.slug | append: "-transcript" %}
-{% assign transcript = site.transcripts | where: "slug", transcript_slug | first %}
+{%- assign date_prefix = page.date | date: "%Y-%m-%d" -%}
+{%- assign transcript_slug = date_prefix | append: "-" | append: page.slug | append: "-transcript" -%}
+{%- assign transcript = site.transcripts | where: "slug", transcript_slug | first -%}
 
 {% if transcript %}
   <p class="transcript-link">
