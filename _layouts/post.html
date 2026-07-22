@@ -33,18 +33,19 @@ layout: default
     {{ content }}
   </div>
 
-<!-- 
+
   
 {% assign transcript_slug = page.slug | append: "-transcript" %}
 {% assign transcript = site.transcripts | where: "slug", transcript_slug | first %} 
 
+<!--
 {% assign date_prefix = page.date | date: "%Y-%m-%d" %}
 {% assign transcript_slug = date_prefix | append: "-" | append: page.slug | append: "-transcript" %}
 {% assign transcript = site.transcripts | where: "slug", transcript_slug | first %}
 
 {% assign transcript_basename = page.date | date: "%Y-%m-%d" | append: "-" | append: page.slug | append: "-transcript" %}
 {% assign transcript = site.transcripts | where: "basename_without_ext", transcript_basename | first %}
-
+-->
 
 
 
@@ -54,8 +55,7 @@ layout: default
   </p>
 {% endif %}
 
--->
-
+<!---
 
 {% assign prefix = page.date | date: "%Y-%m-%d" | append: "-" | append: page.slug %}
 {% assign transcript = site.transcripts | where_exp: "t", "t.basename_without_ext contains prefix" | first %}
@@ -65,6 +65,7 @@ layout: default
     <a href="{{ transcript.url | relative_url }}">Read the transcript →</a>
   </p>
 {% endif %}
+-->
 
 
 
