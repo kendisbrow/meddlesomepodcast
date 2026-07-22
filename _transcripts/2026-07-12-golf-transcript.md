@@ -1,6 +1,3 @@
----
----
-
 [00:00:00.01] Jim:	I lost my notes, hang on a second.
 
 [00:00:09.67] Ken:	Okay, I can cut this, I can cut this part out, cut this beginning out.
