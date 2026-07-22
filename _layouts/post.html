@@ -38,10 +38,17 @@ layout: default
 {% for t in site.transcripts %}
   <p>
     path: {{ t.path }}<br>
-    basename: {{ t.basename_without_ext }}<br>
+    basename w-o: {{ t.basename_without_ext }}<br>
+    basename: {{ t.basename }}<br>
     slug: {{ t.slug }}
   </p>
 {% endfor %}
+
+<p>POST DEBUG:</p>
+<p>page.path: {{ page.path }}</p>
+<p>page.basename: {{ page.basename }}</p>
+<p>page.basename_without_ext: {{ page.basename_without_ext }}</p>
+<p>page.slug: {{ page.slug }}</p>
 
 {% assign post_base = page.path | split: "/" | last | replace: ".md", "" %}
 {% assign transcript_name = post_base | append: "-transcript" %}
