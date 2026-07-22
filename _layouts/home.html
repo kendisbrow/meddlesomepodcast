@@ -11,9 +11,7 @@ layout: default
   {{ content }}
 
 
-{% for t in site.transcripts %}
-  <p>{{ t.basename_without_ext }}</p>
-{% endfor %}
+
 
   {%- if paginator.posts -%}
     <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
@@ -50,6 +48,11 @@ layout: default
       </li>
       {%- endfor -%}
     </ul>
+
+    <p> YIKES </p>
+    {% for t in site.transcripts %}
+      <p>{{ t.basename_without_ext }}</p>
+    {% endfor %}
 
     <div class="pagination">
       {%- if paginator.previous_page -%}
