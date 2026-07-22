@@ -43,8 +43,8 @@ layout: default
   </p>
 {% endfor %}
 
-  
-{% assign transcript_name = page.basename_without_ext | append: "-transcript" %}
+{% assign post_base = page.path | split: "/" | last | replace: ".md", "" %}
+{% assign transcript_name = post_base | append: "-transcript" %}
 {% assign transcript = site.transcripts | where: "basename_without_ext", transcript_name | first %}
 
 {% if transcript %}
@@ -52,6 +52,7 @@ layout: default
     <a href="{{ transcript.url | relative_url }}">Read the transcript →</a>
   </p>
 {% endif %}
+ 
 
 
 
