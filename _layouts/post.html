@@ -50,6 +50,7 @@ layout: default
 <p>page.basename_without_ext: {{ page.basename_without_ext }}</p>
 <p>page.slug: {{ page.slug }}</p>
 
+<p>TRANSCRIPT</p>
 {% assign post_file = page.path | split: "/" | last %}
 {% assign post_base = post_file | replace: ".md", "" %}
 {% assign transcript_name = post_base | append: "-transcript" %}
@@ -60,6 +61,7 @@ layout: default
     <a href="{{ transcript.url | relative_url }}">Read the transcript →</a>
   </p>
 {% endif %}
+
 
  
 
