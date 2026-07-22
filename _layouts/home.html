@@ -49,11 +49,6 @@ layout: default
       {%- endfor -%}
     </ul>
 
-    <p> YIKES </p>
-    {% for t in site.transcripts %}
-      <p>{{ t.basename_without_ext }}</p>
-    {% endfor %}
-
     <div class="pagination">
       {%- if paginator.previous_page -%}
         <a class="previous" href="{{ paginator.previous_page_path | relative_url }}">&laquo; Newer</a>
