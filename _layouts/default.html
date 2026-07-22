@@ -10,19 +10,6 @@
     <main class="page-content" aria-label="Content">
       <div class="wrapper">
         {{ content }}
-          <p>DEBUG TITLE: {{ page.title }}</p>
-
-
-          {% assign post_file = page.path | split: "/" | last %}
-          {% assign post_base = post_file | replace: ".md", "" %}
-          {% assign transcript_name = post_base | append: "-transcript" %}
-          {% assign transcript = site.transcripts | where: "basename_without_ext", transcript_name | first %}
-
-{% if transcript %}
-  <p class="transcript-link">
-    <a href="{{ transcript.url | relative_url }}">Read the transcript →</a>
-  </p>
-{% endif %}
 
       </div>
     </main>
