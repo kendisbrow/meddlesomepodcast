@@ -12,7 +12,7 @@ collections:
   transcripts:
     output: true
     permalink: /transcripts/:name/
-    markdown: true
+    # markdown: true
 
 paginate: 6
 paginate_path: "/page:num/"
