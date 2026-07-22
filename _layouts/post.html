@@ -33,6 +33,15 @@ layout: default
     {{ content }}
   </div>
 
+<p>Transcripts count: {{ site.transcripts | size }}</p>
+
+{% for t in site.transcripts %}
+  <p>
+    path: {{ t.path }}<br>
+    basename: {{ t.basename_without_ext }}<br>
+    slug: {{ t.slug }}
+  </p>
+{% endfor %}
 
   
 {% assign transcript_name = page.basename_without_ext | append: "-transcript" %}
