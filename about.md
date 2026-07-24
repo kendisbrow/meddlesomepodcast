@@ -12,7 +12,7 @@ Short, sharp stories about the real work of running a small business — told by
 
 #### Jim
 <p>
-
+Jim enjoys walking, travel, and sailing. If he's lucky his adventures allow him to do all of these things. Jim was a management consultant with big and small firms for most of his career. He currently resides in the Rocky Mountain region of the United States.
 </p>
 
 #### Ken
