@@ -13,4 +13,4 @@ tags: []
 content_hash: b125c691f93a9b5f5ce7c6ed7f0cdfea769784f13c60284cdaeba2b6c27a0868
 ---
 
-Consultants not only solve problems but also create or bring them.&nbsp;If you use a consultant, you should be aware of these. In recording this, we realized pretty quickly that there are so many problems with consultants that we couldn't cover them all in a single episode. In the first of what will be a multi-part series,&nbsp;we ask whether consulting is a profession. We also dive into the first few of these problems. 
+Consultants not only solve problems but also create them.  If you use a consultant, you should be aware of the problems they bring. We realized pretty quickly that there are so many problems with consultants that we couldn't cover them all in a single episode. We start by asking if consulting is a profession. We also dive into the first few of these problems.
