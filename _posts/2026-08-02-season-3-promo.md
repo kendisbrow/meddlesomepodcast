@@ -13,4 +13,4 @@ tags: []
 content_hash: 0795f27d91ab28e72f07c652c0a3187a7575d2cbe20382d3ebbfa4613135bb08
 ---
 
-Can you believe Jim and Ken are starting their third year doing the Meddlesome Podcast? Neither can we. In this short promo, we talk about finally implementing our website and some changes to the upcoming year. As always, we're short and to the point so we don't waste too much of your time. 
+Can you believe Jim and Ken are starting their third year doing the Meddlesome Podcast? Neither can we. In this short promo, we talk about finally implementing our website and some changes for the upcoming year. As always, we're short and to the point so we don't waste too much of your time. 
