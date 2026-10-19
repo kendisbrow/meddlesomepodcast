@@ -13,4 +13,4 @@ tags: []
 content_hash: f7a2431a7d9c465d1f5a96c613281d84a5707f3a95ca7a7f78c5469e3b9a23e5
 ---
 
-"Two Analysts Walk Into a Lunch Spot and Can't Agree on Where to Sit," Jim and Ken analyze why analysts are, well, a pain in the ass. Analysts are brilliant, curious people who are incapable of answering your simple yes-or-no question. The takeaway? Analysts are valuable teammates...but must be contained!&nbsp; 
+"Two analysts walk into a restaurant and can't agree where to sit..." Jim and Ken analyze why analysts are, well, a pain in the ass. Analysts are brilliant, curious people who are incapable of answering your simple yes-or-no question. The takeaway? Analysts are valuable teammates...but sometimes need guidance!&nbsp; 
