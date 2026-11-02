@@ -13,4 +13,5 @@ tags: []
 content_hash: 10bce9398c5bfe76cdcbbd1d8d3a418547c0ccf8083576c3d70faa1dd833c0f2
 ---
 
-<p>"Two Analysts Walk Into a Lunch Spot and Can't Agree on Where to Sit," Jim and Ken analyze why analysts are, well, a pain in the ass. Analysts are brilliant, curious people who are incapable of answering your simple yes-or-no question. The takeaway? Analysts are valuable teammates...but must be contained!&nbsp;</p><p><br /></p> 
+<p>Why are we even talking about project management? The answer, backed by studies Jim and Ken are both slightly suspicious of, is that most large projects are late, over budget, and deliver less than promised. If you've worked on a project this doesn't surprise you. The lesson?  People are the problem: optimistic schedules invented to chase funding windows, managers who appoint the least qualified person as project manager because "they deserve a turn," and teams silently watching a slow-motion collision while thinking, "Not my job to say something." What can you do about it...tune in and find out.
+&nbsp;</p><p><br /></p> 
