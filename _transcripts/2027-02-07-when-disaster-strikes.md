@@ -1,3 +1,7 @@
+---
+layout: transcript
+---
+
 **Ken**
 I've wanted to talk about this topic for a long time with you. Things go wrong in in particularly consulting projects, but business in general with consulting projects, it can be you know kind of poor craftsmanship. Somebody doesn't do something right, mismatch expectations, and the real question is, you know, what do you do when a project fails?
 
@@ -159,4 +163,3 @@ is a value, but sometimes you can't do it yourself because you're just too close
 
 **Jim**
 Yeah, it'll be too raw.
-

@@ -1,3 +1,7 @@
+---
+layout: transcript
+---
+
 **Ken**
 I was reading in the newspaper the other day about a a project or not a project a product by Dyson, the people that make the vacuum cleaners and hair dryer, incredibly expensive hair dryers and all those things, called the Dyson CameraJet toothbrush. And the CameraJet toothbrush was basically the equivalent of an electronic toothbrush. But not only did it have that, it also had a camera, so you could see where you were brushing and make sure you didn't miss any spots.
 
@@ -117,4 +121,3 @@ Yeah, yeah. I'm waiting for the AI and the LLM in the refrigerator. Yeah. Hey, y
 
 **Jim**
 only that my. My sister's still a little freaked out because an app called her Pammy instead of Pam, and she says there's only a few people that call me Pammy, so it has obviously listened in somewhere. Yeah, I don't want anything calling me by a nickname at all, ever.
-

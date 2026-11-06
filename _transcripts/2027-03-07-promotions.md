@@ -1,3 +1,7 @@
+---
+layout: transcript
+---
+
 **Jim**
 So we're going to talk about promotions of staff within. For me, it's within a consulting framework. Probably the same for you, Ken.
 
@@ -112,4 +116,3 @@ This is three things, and people will follow.
 
 **Jim**
 Yeah, I I agree, and I think both of us were largely oblivious to the chatter that goes on when people get promoted. And I don't know if if anybody's listening that knows the back chatter, send us a note because because we never knew, right.
-

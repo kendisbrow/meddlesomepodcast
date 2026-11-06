@@ -1,3 +1,7 @@
+---
+layout: transcript
+---
+
 **Ken**
 So everybody's discussing this topic, and I feel a little bad because everybody's discussing this topic. And the topic is artificial intelligence and how it's going to impact jobs and business administration. I think it probably will have an impact on consulting.
 
@@ -225,4 +229,3 @@ it's all going to level out, and it's kind of a, I think there's going to be an 
 
 **Jim**
 Yep.
-

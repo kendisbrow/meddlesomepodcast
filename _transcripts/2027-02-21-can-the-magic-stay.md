@@ -1,3 +1,7 @@
+---
+layout: transcript
+---
+
 **Ken**
 This is as much a question of entrepreneurship as anything, and the question is, can the magic stay? I've been involved in a number of different companies, including startups, and there's always an energy, you know, novelty, risk. It's an adventure.
 
@@ -124,4 +128,3 @@ That's valid for a lot of occupations, and they don't. What what I've noticed is
 
 **Ken**
 Yeah, as as I said, this may be an entire conversation about my peculiarities rather than a general conversation. But I think most people that would listen to this podcast would think there's a magic in starting a business or in if you can keep that magic. It's it's makes the business more exciting and more enjoyable to be in. So yeah.
-

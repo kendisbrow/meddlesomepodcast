@@ -1,3 +1,7 @@
+---
+layout: transcript
+---
+
 **Jim**
 So, this is the topic today is going to be project management number four of we don't know how many it could go on quite a ways, but topic four for us is going to be estimating work, both the amount of work and the the flow rate of work, if you will, or the speed or velocity, depending on what lingo you like to use. And I'm going to start off with the the two the two things that are essential to me that every every client, every team, every project certainly bigger than six months needs to do. And I'll admit ahead of time that my findings are that almost no organization will do these things, and if they do do it, they do it poorly.
 
@@ -164,4 +168,3 @@ I don't see that happen very often.
 
 **Jim**
 No, no.
-

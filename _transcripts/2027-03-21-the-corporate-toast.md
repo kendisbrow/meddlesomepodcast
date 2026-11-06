@@ -1,3 +1,7 @@
+---
+layout: transcript
+---
+
 **Ken**
 I was in a small restaurant up in Canada the other day, and about half of the the restaurant was rented out to some corporate group. And there was kind of the typical corporate chatter, and we've all sat there, and I've I've seen it, and you've seen it. The yeah, and then the leaders got up and toasted, and they toasted to you know, here's to a great year, and the team that made it happen, and everybody took a drink, and just think of what this group will accomplish next year.
 
@@ -81,4 +85,3 @@ Or
 
 **Jim**
 no, I nope. I would just say, as you already pointed out, get rid of the lucite.
-
