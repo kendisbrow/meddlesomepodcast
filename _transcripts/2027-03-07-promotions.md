@@ -1,7 +1,4 @@
----
-layout: transcript
----
-
+**Jim**
 So we're going to talk about promotions of staff within. For me, it's within a consulting framework. Probably the same for you, Ken.
 
 And you had asked the question: How did we know when somebody was ready for a promotion, and how did we know who to promote, or even when to promote them? And I think I would have to admit to not knowing the answer to any of those questions. There's almost too many variables.
@@ -14,7 +11,16 @@ It seemed like the progression, because I know it's different in other. Professi
 
 And then for us, the last sort of stepping point was to have responsibility for the business, and that was probably the the. That that that happened later. We we've done another podcast where we talked about profitability and how we always retained really the responsibility for making sure that it was profitable.
 
-So I'm going to offer up that progression, and if you disagree, change the progression. But I'm curious what your thoughts were about. How did we know who and when along the progression of steps? Honestly, we never nailed it. You know, we we so wrong again. Yeah, yeah, right, exactly. There's a thing in economics called disciplined pluralism, where you try a whole bunch of ideas, and whichever you know, and one of them may work, one of them may not, and and I'm not sure we ever got to the idea that worked in terms of promotion. So our our economic model failed us there, but.
+So I'm going to offer up that progression, and if you disagree, change the progression. But I'm curious what your thoughts were about. How did we know who and when along the progression of steps?
+
+**Ken**
+Honestly, we never nailed it. You know, we we so
+
+**Jim**
+wrong again.
+
+**Ken**
+Yeah, yeah, right, exactly. There's a thing in economics called disciplined pluralism, where you try a whole bunch of ideas, and whichever you know, and one of them may work, one of them may not, and and I'm not sure we ever got to the idea that worked in terms of promotion. So our our economic model failed us there, but.
 
 You know, we we made a bunch of early mistakes thinking smart people would be good leaders or could could be leaders. Not true. You know that just doesn't work that way.
 
@@ -28,7 +34,13 @@ They're ready for it. You know, so I don't know that we ever nailed it at all. I
 
 The things that kind of stood out in my mind. So I don't know about the progression. That's really what you asked me about the progression itself.
 
-Looking back on it, that's kind of happened. But you made it sound like it was planned, or that's how it happened. It wasn't planned. Yeah, that's just sort of that's just sort of the way it worked for us. I don't know if that was the best. Maybe we had some people who were brand new to the organization in consulting that would have made good leaders.
+Looking back on it, that's kind of happened. But you made it sound like it was planned, or that's how it happened.
+
+**Jim**
+It wasn't planned. Yeah,
+
+**Ken**
+that's just sort of that's just sort of the way it worked for us. I don't know if that was the best. Maybe we had some people who were brand new to the organization in consulting that would have made good leaders.
 
 We didn't tend to let them have that opportunity, probably because we'd convinced ourselves that you know you need to go through this series of steps to be a leader. However, you want to define it, whether that's leading a deliverable, leading a client relationship, stepping up and managing a line of business for us. The things that I noticed kind of worked where we'd look for people that seemed to want to lead.
 
@@ -48,21 +60,45 @@ That's kind of where I come off on this is. I don't think we ever had a great sy
 
 I've never seen it anywhere. I've seen all kinds of analytical approaches, and they all strike me as a bit hollow. And and I think really it's look to the peers of the individual and the the desires of the individual.
 
-They have to both want to lead, and they have to have people who want them to be leaders. And that's the best I can describe it as how what's kind of worked in my mind. Yeah, and I think we have to point out that. We did have some failures, people that were promoted that shouldn't have been. But I would, I would accept the blame.
+They have to both want to lead, and they have to have people who want them to be leaders. And that's the best I can describe it as how what's kind of worked in my mind.
+
+**Jim**
+Yeah, and I think we have to point out that. We did have some failures, people that were promoted that shouldn't have been. But I would, I would accept the blame.
 
 I think you and I could accept the blame for that because we sort of missed the signs, maybe the clues from the other staff. And to your point, the ones that just sort of drifted into the leadership position, by and large, most of our promotions that occurred, we used to say organically. I don't know if that's still a term that's in favor or disfavor, but the ones that kind of.
 
 Work their way into the leadership positions organically. We we had a lot of really talented people that ended up leading and in the positions they should be. But I don't know that we can necessarily take credit for that.
 
-Other than to stay out of the way when we finally learn those. I think looking back, our failures, and I have a few in mind, but I'm not going to go into any detail. Our failures were because we had people who wanted to be leaders or managers or somewhere up in the organization. And we listened to that desire, but we didn't look at the their peers surrounding them, who you know were kind of saying, "Now I'm not going to follow this person." And that was, I know that that that sounds odd.
+Other than to stay out of the way when we finally learn those.
+
+**Ken**
+I think looking back, our failures, and I have a few in mind, but I'm not going to go into any detail. Our failures were because we had people who wanted to be leaders or managers or somewhere up in the organization. And we listened to that desire, but we didn't look at the their peers surrounding them, who you know were kind of saying, "Now I'm not going to follow this person." And that was, I know that that that sounds odd.
 
 And how do you know that the peers want to follow somebody? But you can kind of detect it. But our our failures were, gee, this person had managed before, and they want to do it again.
 
-So we'll just make them a manager. And it turns out they probably weren't very good where they were, and they weren't very good for us in manager roles. Yeah, which made it very difficult for us. We had to, you know. Either counsel them back to you know down a level or back a level, but that whole Peter Principle thing really does apply to some people where they you know work themselves into positions they just can't can't handle, and often they delude themselves into believing what's it called Dunning Kruger where you believe yourself capable of things that you're simply not. Yeah, yeah. The scariest words are I want people reporting to me without any. Sort of justification for what? What exactly do you want to work on, or yeah, or what your goals is? You know, it reminds me we we live away from the coast, and so consequently, certain times of the year there are huge flocks of geese migrating south and. We were fortunate enough to have a business where, and the geese do this all the time.
+So we'll just make them a manager. And it turns out they probably weren't very good where they were, and they weren't very good for us in manager roles.
+
+**Jim**
+Yeah,
+
+**Ken**
+which made it very difficult for us. We had to, you know. Either counsel them back to you know down a level or back a level, but that whole Peter Principle thing really does apply to some people where they you know work themselves into positions they just can't can't handle, and often they delude themselves into believing what's it called Dunning Kruger where you believe yourself capable of things that you're simply not.
+
+**Jim**
+Yeah, yeah. The scariest words are I want people reporting to me without any. Sort of justification for what? What exactly do you want to work on, or
+
+**Ken**
+yeah,
+
+**Jim**
+or what your goals is? You know, it reminds me we we live away from the coast, and so consequently, certain times of the year there are huge flocks of geese migrating south and. We were fortunate enough to have a business where, and the geese do this all the time.
 
 They form a V, and there's a lead goose that's leading the V. But that goose will peel off at some point, and another goose will peel in to the front, and that just goes on. And it's it felt to me like, and I'm hopeful that this is true. It felt to me like we had an environment where.
 
-Everybody that wanted to and was capable got the chance to lead either a significant project or parts of the business or clients. Yeah, I'm not sure that's true. It's simply because of numbers. You know, you need people to do the work as well as lead the work, and and some people are.
+Everybody that wanted to and was capable got the chance to lead either a significant project or parts of the business or clients.
+
+**Ken**
+Yeah, I'm not sure that's true. It's simply because of numbers. You know, you need people to do the work as well as lead the work, and and some people are.
 
 I'm not saying leaders don't do work. That's not what I'm saying. I'm saying it's a different.
 
@@ -72,4 +108,8 @@ Promotions are tough, particularly in a small business where there's very few pe
 
 And by small business, I'm talking you know fifty to a hundred people, or fifty to. Even 200 people. When you get to a larger business of 10,000 or you know 100,000 people or 50,000 people, And they were all pretty artificial, and it comes back to I think those two things I said, which is you have to have somebody who's got a desire to lead, the ability to learn how to lead.
 
-This is three things, and people will follow. Yeah, I I agree, and I think both of us were largely oblivious to the chatter that goes on when people get promoted. And I don't know if if anybody's listening that knows the back chatter, send us a note because because we never knew, right.
+This is three things, and people will follow.
+
+**Jim**
+Yeah, I I agree, and I think both of us were largely oblivious to the chatter that goes on when people get promoted. And I don't know if if anybody's listening that knows the back chatter, send us a note because because we never knew, right.
+

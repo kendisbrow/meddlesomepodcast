@@ -1,7 +1,4 @@
----
-layout: transcript
----
-
+**Ken**
 So everybody's discussing this topic, and I feel a little bad because everybody's discussing this topic. And the topic is artificial intelligence and how it's going to impact jobs and business administration. I think it probably will have an impact on consulting.
 
 I think it will have an impact on. Business administration. I've used it early in our career.
@@ -12,7 +9,10 @@ Used to be a series of kind of if-then statements. You know, if you misspell thi
 
 But I was kind of an early adopter of it to help with phrasing, spelling, things like that. That said, we never really used it in any detail. So a little of this is going to be staring at a crystal ball and think about how we could use it.
 
-Do you want to jump in? I've got a couple of ideas about that, but do you want to jump in? And yeah, what what I like about AI is. Let me start with that. I think it makes the barrier to entry to a lot of possible professions or possible ways to run a business.
+Do you want to jump in? I've got a couple of ideas about that, but do you want to jump in? And
+
+**Jim**
+yeah, what what I like about AI is. Let me start with that. I think it makes the barrier to entry to a lot of possible professions or possible ways to run a business.
 
 It makes the barrier to entry kind of fall down. and An example that I'll give is actually from a while ago, and it's not. Exactly AI, but AI really puts the pedal to the metal on it, and that is, I distinctly remember I I worked in Medicaid most of my career, and the code of federal regulations, which is probably one of the largest documents in the world, it just goes on forever.
 
@@ -22,7 +22,13 @@ Also, that eliminates a huge barrier to a lot of people being able to work on th
 
 And that had to be done correctly. But could you imagine these days if you could take your APDs or advanced planning documents that you'd written for clients that had won the grant, and have AI compare a new one to those that was a winner and help you make those changes to keep winning, and even compare it to the losing grant documents? You'd be so much further ahead in the process.
 
-And the key is be able to do it cheaper. So that's that's what I'm excited about. Is I think individuals or small groups of people can now tackle jobs that would have required teams of people before. Do you use any of it now? Well, it's funny you should ask. I've I've lived the last eight years of my life with one foot in one state and one foot in another state. And I've been a resident of one of those states for thirty years, but starting to the the movement to the other state more permanently.
+And the key is be able to do it cheaper. So that's that's what I'm excited about. Is I think individuals or small groups of people can now tackle jobs that would have required teams of people before.
+
+**Ken**
+Do you use any of it now?
+
+**Jim**
+Well, it's funny you should ask. I've I've lived the last eight years of my life with one foot in one state and one foot in another state. And I've been a resident of one of those states for thirty years, but starting to the the movement to the other state more permanently.
 
 And I just wanted to know what are the tax differences. And here's the kicker: I had asked two CPAs in that one state where I've been for thirty years, and of financial advisors that I respect who also prepares. Tax returns.
 
@@ -32,7 +38,16 @@ Please compare personal tax. Please compare personal taxation in State A to Stat
 
 The only downside is my oldest son just told me a story that I won't go into now about AI lying to him and admitting to lying after he challenged it, and so yeah. But that's on. I think that's on more objective questions.
 
-I mean, more subjective questions, not objective questions. Yeah, that's that's interesting. I had a couple of recent experiences with it. My son, my son, my oldest son, my only son. Thank God for oldest son. Right, right. Is is in the medical field, and and he was so sold on AI to begin with. You know, it was like, look, Dad, I can get answers to this, this, and this. And I said, okay, ask it a question you know the answer to in the medical field, and see what it comes back with.
+I mean, more subjective questions, not objective questions.
+
+**Ken**
+Yeah, that's that's interesting. I had a couple of recent experiences with it. My son, my son, my oldest son, my only son.
+
+**Jim**
+Thank God for oldest son. Right, right.
+
+**Ken**
+Is is in the medical field, and and he was so sold on AI to begin with. You know, it was like, look, Dad, I can get answers to this, this, and this. And I said, okay, ask it a question you know the answer to in the medical field, and see what it comes back with.
 
 Well, he said, well, it didn't lie, but it lacked nuance and lacked, you know, kind of lacked detail. And he said it was really situational dependent. So, yeah, I guess the caveat here is it does help you, but you got to kind of back it up, and particularly where you have expertise, it's easy to see where it.
 
@@ -58,21 +73,57 @@ But it was, you could sort of tell it was AI and and fluffy. And I was thinking,
 
 Idaho is known as the Great Potato State, and you and I've joked about this for years afterwards. And that's kind of sometimes what the AI research comes back with is this trivial stuff that doesn't matter. So I think it could have been useful from a business administration perspective, from a lot or for a lot of reasons.
 
-I'll talk about consulting how it may have been used in consulting in a minute. But you want to jump in for anything about business administration? I see you taking. Well, no what what you just said is so true. AI. Can be clever and it can be smart at comparing things, but it's super short on personality. And I'm a firm believer. And you were talking about maybe it could help you write a proposal. I'm a firm believer that you win with proposals that a have to meet all the requirements, but b show the personality of the company and I think well that's going to be working with them. I think that's that's how you get a winning one. AI always comes up short. It makes a misstep, and you say, Yeah, that's yeah, yeah, yeah. I think from a consulting perspective, not a sales, but just the conducting the work, it would have been useful to go through a large body of of documents and have it summarize them. I still think you need to back it up because it does hallucinate is the word that they they use. I think maybe some research.
+I'll talk about consulting how it may have been used in consulting in a minute. But you want to jump in for anything about business administration? I see you taking.
+
+**Jim**
+Well, no what what you just said is so true. AI. Can be clever and it can be smart at comparing things, but it's super short on personality. And I'm a firm believer. And you were talking about maybe it could help you write a proposal. I'm a firm believer that you win with proposals that a have to meet all the requirements, but b show the personality of the company
+
+**Ken**
+and I think
+
+**Jim**
+well that's going to be working with them. I think that's that's how you get a winning one. AI always comes up short. It makes a misstep, and you say, Yeah, that's yeah, yeah, yeah.
+
+**Ken**
+I think from a consulting perspective, not a sales, but just the conducting the work, it would have been useful to go through a large body of of documents and have it summarize them. I still think you need to back it up because it does hallucinate is the word that they they use. I think maybe some research.
 
 You know, what have other? I I looked at. I said, I asked it, what have other states done in the Medicaid arena in the past ten years?
 
 And it came up with a very nice graph and a list of states that were doing things. And it was just nice to know information that would have maybe fed some work, you know, maybe for creating tools for data collection, things like that's where I see it it useful. What I can't see it doing is kind of what you just said, you know, applying human logic and psychology to a document or to how you present something.
 
-Any document. A consultant writes as a political document, yeah, and it's not just it's not just about the facts. It's how the facts are presented, and I've never I tried to get an AI to rewrite some of the old reports I've I'd written, and it came back with a fairly nice factual summary. But I can just see clients' eyes rolling, either because it was it trivialized things, or it put it in an order that really didn't make sense, or it phrased things in a way that was incendiary, downright incendiary.
+Any document. A consultant writes as a political document,
+
+**Jim**
+yeah,
+
+**Ken**
+and it's not just it's not just about the facts. It's how the facts are presented, and I've never I tried to get an AI to rewrite some of the old reports I've I'd written, and it came back with a fairly nice factual summary. But I can just see clients' eyes rolling, either because it was it trivialized things, or it put it in an order that really didn't make sense, or it phrased things in a way that was incendiary, downright incendiary.
 
 So. You know, and and it certainly wouldn't be able to deliver results. A lot of the work of a consultant is delivering those results, whether it's in a a written report or a spoken conversation or something like that.
 
-That an AI just simply couldn't do. Yeah, I yeah, I you know, it's a tool, right? Right. And so many tools come along, and people.
+That an AI just simply couldn't do.
+
+**Jim**
+Yeah, I yeah, I you know, it's a tool, right? Right. And so many tools come along, and people.
 
 Predict doom and failure, and we were just watching a show the other night, and it reminded me of when interior lighting switched over from natural gas pipes in the walls, feeding a lamp fixture on the wall or in the ceiling, and so you had natural gas coming in. With a lit flame for lighting inside, and what could possibly go wrong? And then when Edison came along with the electric light bulb, it wasn't readily adopted right away because people were afraid of it—that it was going to burn down their houses.
 
-And now, now you you you look at that and laugh because. There's no way I would pipe gas into my house to light it. Well, I have it. I have it for my furnace, but that's as far as it goes. Yeah, just in there comes with all sorts of controls. Right. Yeah. Yeah. That's a great analogy. You know, kind of.
+And now, now you you you look at that and laugh because. There's no way I would pipe gas into my house to light it.
+
+**Ken**
+Well, I have it. I have it for my furnace, but that's as far as it goes. Yeah, just in there comes
+
+**Jim**
+with all sorts of controls.
+
+**Ken**
+Right.
+
+**Jim**
+Yeah.
+
+**Ken**
+Yeah. That's a great analogy. You know, kind of.
 
 I think there's a ton of dangers. The biggest one I see. It.
 
@@ -90,11 +141,20 @@ It's not going to replace them. I'm I'm old enough to remember when spreadsheets
 
 The role of the accountant changed, and their job got, in some ways, easier, in some ways, harder because of it. But I think that's what's going to happen. So you know, my conclusion of this whole conversation, I think, would be a great help with business admin.
 
-I think it's a nice adjunct to search engines and probably a replacement, but I think you have to use it judiciously in both administration and consulting, and don't abdicate your critical thinking responsibilities to a to a machine. It's so easy to anthropomorphize those things because it does respond to you as though a human would, but it's you know it's simply a a machine that is so complex even the creators can't understand what it does. So yeah, we were just talking to somebody yesterday, and she said I. Got tired of the female voice for Alexa. I've got the male voice. Okay, there.
+I think it's a nice adjunct to search engines and probably a replacement, but I think you have to use it judiciously in both administration and consulting, and don't abdicate your critical thinking responsibilities to a to a machine. It's so easy to anthropomorphize those things because it does respond to you as though a human would, but it's you know it's simply a a machine that is so complex even the creators can't understand what it does. So
+
+**Jim**
+yeah, we were just talking to somebody yesterday, and she said I. Got tired of the female voice for Alexa. I've got the male voice. Okay, there.
 
 Lots of people have done that. They they want to hear Alexa respond a certain way. But then she said, "Can I call you Alex?"
 
-And in a male voice, it responded, "No, my name is Alexa." So either that's a bug or that's a feature. I'm not sure which. We'll we'll find out. But. I'd like to make one small point and make a prediction, and then I'd like to hear your prediction, sure AI, if you have one.
+And in a male voice, it responded, "No, my name is Alexa." So either that's a bug or that's a feature. I'm not sure which.
+
+**Ken**
+We'll
+
+**Jim**
+we'll find out. But. I'd like to make one small point and make a prediction, and then I'd like to hear your prediction, sure AI, if you have one.
 
 But the small point is, I don't think we ever want AI launching the first missile. AI should be further back in the loop of decisions than than the first decision. I think always.
 
@@ -102,7 +162,10 @@ And as a prediction, I just read in the paper that people are starting to ask th
 
 I just think. That those two professions are going to fail at at adapting to AI. Yeah, that's that's the purpose.
 
-So, but it's it's interesting to me because i'll i'll i'll relate it to consulting, which I know better than accounting or the legal field. But it's quasi, you know, a professional. Professional profession, and my thought is again, it's that interface between the knowledge and a and a human being, which is where the values provided in consulting.
+So, but it's it's
+
+**Ken**
+interesting to me because i'll i'll i'll relate it to consulting, which I know better than accounting or the legal field. But it's quasi, you know, a professional. Professional profession, and my thought is again, it's that interface between the knowledge and a and a human being, which is where the values provided in consulting.
 
 And I think it's probably the same thing in law. Now, will it change it dramatically? Probably, yeah.
 
@@ -122,4 +185,44 @@ Probably means there would need to be fewer consultants or fewer lawyers or fewe
 
 He said, all the management consultants were put on a rocket ship and and sent to a planet, and everybody else accidentally went to another. All the productive people accidentally went to another planet and survived. But yeah, so I I don't think it's going to be dramatically do away with those professions.
 
-I think it's going to dramatically change them. That's right. Yeah. So, but on the, I'm stuck on the discount. If something took you a hundred hours to do previously, and it took you now ten using AI responsibly, that seems. I mean, having worked with you and priced a million different things a million different ways, that seems like it would be a discount at some point. Or you say it still occupy a hundred hours. I would still charge ten dollars an hour to do the work I do. Now, if I could do that work more efficiently, then you'd pass along some of that, right? Instead of seeing instead of well, instead of charging a hundred hours to do the work in your example, instead of charging a thousand, yeah, charge a hundred dollars, and I think that's just the ethical thing to do. Now, in order to make up my income, and this is my responsibility, not the client's responsibility, I have to either get more work, yeah, or you know, or something like that. And I think that's what will happen. Yeah. Why did you? Once the tools are learned how to be used, but. We've both worked for people in our past, or met some lawyers and some accountants. I don't want to smear other of professions entirely. We would stick with the hundred-hour billing, right? Right? Yeah, no question about it. But on the other hand, market forces are going to cause them to, yeah, because everybody else or somebody will start charging the ten hours instead of the hundred hours, and yeah, so it's all going to level out, and it's kind of a, I think there's going to be an economic impact as well as a an impact on the how the profession works. Yep.
+I think it's going to dramatically change them. That's right.
+
+**Jim**
+Yeah. So, but on the, I'm stuck on the discount. If something took you a hundred hours to do previously, and it took you now ten using AI responsibly, that seems. I mean, having worked with you and priced a million different things a million different ways, that seems like it would be a discount at some point. Or you say it still occupy a hundred hours.
+
+**Ken**
+I would still charge ten dollars an hour to do the work I do. Now, if I could do that work more efficiently,
+
+**Jim**
+then you'd pass along some
+
+**Ken**
+of that, right? Instead of seeing instead of well, instead of charging a hundred hours to do the work in your example, instead of charging a thousand, yeah, charge a hundred dollars, and I think that's just the ethical thing to do. Now, in order to make up my income, and this is my responsibility, not the client's responsibility, I have to either get more work, yeah, or you know, or something like that.
+
+**Jim**
+And I think that's what will happen. Yeah.
+
+**Ken**
+Why did you?
+
+**Jim**
+Once the tools are learned how to be used, but. We've both worked for people in our past, or met some lawyers and some accountants. I don't want to smear other of professions entirely. We would stick with the hundred-hour billing, right? Right?
+
+**Ken**
+Yeah, no question about it. But on the other hand, market forces are going to cause them to,
+
+**Jim**
+yeah,
+
+**Ken**
+because everybody else or somebody will start charging the ten hours instead of the hundred hours, and
+
+**Jim**
+yeah, so
+
+**Ken**
+it's all going to level out, and it's kind of a, I think there's going to be an economic impact as well as a an impact on the how the profession works.
+
+**Jim**
+Yep.
+

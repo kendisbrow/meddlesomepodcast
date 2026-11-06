@@ -1,7 +1,4 @@
----
-layout: transcript
----
-
+**Jim**
 So, this is the topic today is going to be project management number four of we don't know how many it could go on quite a ways, but topic four for us is going to be estimating work, both the amount of work and the the flow rate of work, if you will, or the speed or velocity, depending on what lingo you like to use. And I'm going to start off with the the two the two things that are essential to me that every every client, every team, every project certainly bigger than six months needs to do. And I'll admit ahead of time that my findings are that almost no organization will do these things, and if they do do it, they do it poorly.
 
 But so the first one for me is. Any reasonable and honest measurement of a project will help, and so the starting point can be doing any measurement. And I have engaged in arguments with contractors, with clients, with fellow staff that know Jim, you're wrong.
@@ -16,7 +13,10 @@ And maybe I'll get a client argue with me because they argued all the time. They
 
 I'm here to tell you, I was not persuasive enough. I can think of zero clients who, in the end, archived their data for the long term. They may have said they saved some reports or this or that, but that data is valuable.
 
-And we all live in a time right now where data is the most valuable commodity. Out there, so yeah, I'll let you dial that in, Ken, and feel free to disagree or take it a different direction. No, I mean, I think most schedules are developed that I've seen are by you know we have this much time. We got we got a a grant that lasts six months, so the project will take six months to do, or we have a hundred dollars to do the project. So, you know, we'll do a hundred dollars worth of project.
+And we all live in a time right now where data is the most valuable commodity. Out there, so yeah, I'll let you dial that in, Ken, and feel free to disagree or take it a different direction.
+
+**Ken**
+No, I mean, I think most schedules are developed that I've seen are by you know we have this much time. We got we got a a grant that lasts six months, so the project will take six months to do, or we have a hundred dollars to do the project. So, you know, we'll do a hundred dollars worth of project.
 
 I've seen other where one guy will say, "Oh, I did something like this before. It took us six months, so this will take six months." Now we're getting into the territory.
 
@@ -38,9 +38,30 @@ So you just, you know, you take one of these higher level measures. A guess, or 
 
 I think that's one of the problems I see with a lot of projects. So I agree with you. You know, kind of that.
 
-But I did have I did write down a question as you were talking. You said you were talking about measurement of a project, and do you have a little more specific more specifics about what you mean? Sure. So to to your point about work breakdown structure, that's that's one. Way and it is helpful.
+But I did have I did write down a question as you were talking. You said you were talking about measurement of a project, and do you have a little more specific
 
-We got a couple of clients to use function points to size projects, and that took me back. Yeah, yeah. The key here is function points were overdefined, and there was Capers Jones. That was Capers Jones. The first one, one of the first to point out. Stop trying to be so exact. You can estimate by taking some of what he studied and and did. We we had a senior person who who was a big believer in that, and you can estimate function points close enough that they're useful. Because if you try to get exact on function points, then you spend your whole life being a function point analyst and not getting work done. Gets that? How many angels can dance on the head of a pin? Argument exactly because it can go as fine as you want, and the trick is you don't want to go fine. You want to get to the First, meaningful sizing without going into all the details. So that's that's one way.
+**Jim**
+more
+
+**Ken**
+specifics about what you mean?
+
+**Jim**
+Sure. So to to your point about work breakdown structure, that's that's one. Way and it is helpful.
+
+We got a couple of clients to use function points to size projects, and that took me back. Yeah, yeah. The key here is function points were overdefined, and there was Capers Jones.
+
+**Ken**
+That was Capers Jones. The first
+
+**Jim**
+one, one of the first to point out. Stop trying to be so exact. You can estimate by taking some of what he studied and and did. We we had a senior person who who was a big believer in that, and you can estimate function points close enough that they're useful. Because if you try to get exact on function points, then you spend your whole life being a function point analyst and not getting work done.
+
+**Ken**
+Gets that? How many angels can dance on the head of a pin? Argument exactly because it
+
+**Jim**
+can go as fine as you want, and the trick is you don't want to go fine. You want to get to the First, meaningful sizing without going into all the details. So that's that's one way.
 
 Another way to to measure is to to do what you said earlier. Is it similar to another project, or is it equivalent to doing ten of those projects, or five of those projects? What feels right?
 
@@ -50,7 +71,10 @@ You have a project at the very beginning that looks to us as it's going to be so
 
 And they'd say, "No, no, we made a promise; it will be done on that date." So, the point is, in order to do the measurement, the sizing, and the measurement correctly, you have to be willing to set up. What I visualize as a funnel, you've got a range of dates, and you're going to narrow that range over time because that's that's what I mean by self-correcting.
 
-Set up any old measurement system, measure it honestly, and you're going to find that you're defining a range of dates when it's possible to finish narrower and narrower, and that's the proper way to to measure a project. It doesn't have a ready. That was quite an educational problem for our clients. I remember we had graphs that would show very early on on the project. Okay, we think that the end date will be between this and this when we estimated using something like function points, and I'll come back to that in just a minute.
+Set up any old measurement system, measure it honestly, and you're going to find that you're defining a range of dates when it's possible to finish narrower and narrower, and that's the proper way to to measure a project. It doesn't have a ready.
+
+**Ken**
+That was quite an educational problem for our clients. I remember we had graphs that would show very early on on the project. Okay, we think that the end date will be between this and this when we estimated using something like function points, and I'll come back to that in just a minute.
 
 And they would go crazy. What do you mean you can't give me an end date? And we said, well, the probability is it's going to fall in this range, and we got into all kinds of probabilistic discussions with them and things like that, which were.
 
@@ -72,11 +96,23 @@ But the point is, your funnel analogy is really good. When you start a project, 
 
 But as you get more definition on the project, in the case of a systems project, when you get a some kind of a requirements definition or use cases done, you can perform a function point analysis, which is a little more accurate than a than a somebody else took this long. And then as you go further, you can actually begin to get metrics of your velocity going through a project and how much work there actually is, and get more and more accurate. That window I mentioned that we would present to clients around this is a a. A window around the finish date that would get narrower and narrower until about a week before you were done.
 
-You know exactly when you were going to be done, but the point is there's uncertainty before then, and the measure the the means to estimate the schedule before then. You have to keep up with, or you have to keep using more and more accurate measures for to come up with your schedule. Yeah, and I I think the brilliance of Capers Jones. We we do need to look up his book and refer to it because it is that he would lay out sizing estimations logarithmically, in other words, exponentially. He he laid out the size of a project because he wasn't going to busy himself with the differences between a thousand function points and a and a software project that's two thousand function points.
+You know exactly when you were going to be done, but the point is there's uncertainty before then, and the measure the the means to estimate the schedule before then. You have to keep up with, or you have to keep using more and more accurate measures for to come up with your schedule.
+
+**Jim**
+Yeah, and I I think the brilliance of Capers Jones. We we do need to look up his book and refer to it because it is that he would lay out sizing estimations logarithmically, in other words, exponentially. He he laid out the size of a project because he wasn't going to busy himself with the differences between a thousand function points and a and a software project that's two thousand function points.
 
 He was interested in a thousand function points versus ten thousand function points versus a hundred thousand function points. And what if you look up what he did, you'll see the brilliance in it. But that would lose our clients as well because they'd say, "Why is this?
 
-Why are these numbers changing on such a big sizing?" And and yeah, we we should probably do just one thing on the whole function point analysis and the sizing. I'll make a note of that because it it does get rather involved. And and for function points, we can just substitute inputs, outputs, processes, and some. Some data storage, but it it does get a little finer, a lot finer than that. You brought something up. Go ahead. Okay. So, I just kind of have maybe one or two more things to kind of bring up. Schedules are not accurate, certainly at the beginning.
+Why are these numbers changing on such a big sizing?" And and yeah, we we should probably do just one thing on the whole function point analysis and the sizing.
+
+**Ken**
+I'll make a note of that because it
+
+**Jim**
+it does get rather involved. And and for function points, we can just substitute inputs, outputs, processes, and some. Some data storage, but it it does get a little finer, a lot finer than that. You brought something up. Go ahead.
+
+**Ken**
+Okay. So, I just kind of have maybe one or two more things to kind of bring up. Schedules are not accurate, certainly at the beginning.
 
 At the end of a project, you know how long it took. At the beginning of a project, you generally don't know how long it takes, and there's a number of ways to manage that, and we'll talk about them not not today, but in another management podcast about scope management. Really, is is what that is, or resource allocation to a project.
 
@@ -88,13 +124,19 @@ Probably the most important thing is the actual work completed. I can't tell you
 
 We're a year in. We must be fifty percent done, which has nothing to do with the actual work to be completed. And you and I both been involved in projects where they've said that, and we came in and said, "No, you've only got ten percent of the work that needs to be done finished in this year."
 
-And they would argue with us, and we'd argue with them. And I hate to say I told you so, but most often we were, I find, in fact, every time that I can recall, we were correct that it's really about the work to be completed, not what we said on the schedule. So, yeah, and I can I have to underscore, underline, and highlight what you just said because I believe this fallacy still exists in the coding workspace, and that is. The fallacy of the gain mentality, which says if I'm going to do a hundred widgets and we've completed fifty widgets, then we've only got fifty left because it's human nature and it's large project. It's it's true on every large project.
+And they would argue with us, and we'd argue with them. And I hate to say I told you so, but most often we were, I find, in fact, every time that I can recall, we were correct that it's really about the work to be completed, not what we said on the schedule.
+
+**Jim**
+So, yeah, and I can I have to underscore, underline, and highlight what you just said because I believe this fallacy still exists in the coding workspace, and that is. The fallacy of the gain mentality, which says if I'm going to do a hundred widgets and we've completed fifty widgets, then we've only got fifty left because it's human nature and it's large project. It's it's true on every large project.
 
 Not all fifty of those widgets were the right widgets, and so you. As you say, you have to look at the work remaining independent of what's been done because we've both been on very large projects where we had to tell our client the more work that's being done on this project right now, the more work you have left. and And their first reaction was, "Well, we're going to have to dismiss you, I'm afraid, and we'll we'll talk to contracting to get you off the premises because you're stupid."
 
 And no, it took it took a while to to even demonstrate to them. the The more, if you do this project for another month, you're going to add a year to the schedule, and that was so hard for them to understand. And the one time that it that we that I had a client that was right on board with this thinking because he had already sort of having the having these aha moments, and he was in a position to end the project as soon as we told him that.
 
-He said, "I've been I've been worried about that for a year now." And he said, "His next his next action was to pick up his phone and call the state attorney general and say, 'I need you to.'" In the contract, not ours, but the development contract that was giving him these moments of, if they spend another month, it's going to push it out a year. Again, this has to do really with scope management, and we'll get into that in another podcast. But so, I think summarizing schedules, particularly early on, are not particularly accurate. There are means to estimate them.
+He said, "I've been I've been worried about that for a year now." And he said, "His next his next action was to pick up his phone and call the state attorney general and say, 'I need you to.'" In the contract, not ours, but the development contract that was giving him these moments of, if they spend another month, it's going to push it out a year.
+
+**Ken**
+Again, this has to do really with scope management, and we'll get into that in another podcast. But so, I think summarizing schedules, particularly early on, are not particularly accurate. There are means to estimate them.
 
 And having some rational basis in estimating is better than saying we have we were given x dollars or x years to complete something. So that's when it'll be done. I'm not saying you can't address those constraints, but that's done through another way.
 
@@ -102,8 +144,24 @@ That's done through scoping, where you cut down the size of the project. If you 
 
 But we'll get into scope management, which again is what you're really talking about. The more you get into a project, sometimes you realize the bigger the scope should have been, or yeah. Well, we'll talk about that in another time.
 
-Why the scope? Why the scope creeps? But yeah, yeah. And please, please, please. No matter what size organization you are, track your measurement data, whatever measurement data you have. Please track it and archive it.
+Why the scope? Why the scope creeps? But yeah, yeah.
+
+**Jim**
+And please, please, please. No matter what size organization you are, track your measurement data, whatever measurement data you have. Please track it and archive it.
 
 And this is important. Archive it in a form that a future project can access it. Make Sense of it and apply it to future projects.
 
-You'll be so far ahead. Yeah, but very rarely does anyone. Yeah, I don't. I don't see that happen very often. No, no.
+You'll be so far ahead.
+
+**Ken**
+Yeah, but very
+
+**Jim**
+rarely does anyone. Yeah, I don't.
+
+**Ken**
+I don't see that happen very often.
+
+**Jim**
+No, no.
+
